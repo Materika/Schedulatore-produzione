@@ -1,86 +1,8 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T13:38:31.368Z",
+  "_salvato": "2026-06-04T13:40:17.340Z",
   "ordini": [
-    {
-      "id": "ol4bz2g1",
-      "tipo": "sacchi",
-      "cliente": "2025/451",
-      "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 30x40+2 sp.50 my / RECYCLED/ MINIC./ CFS2",
-      "commessa": "",
-      "commessaDesc": "",
-      "codiceOP": "2025/451",
-      "rigaOP": "20878",
-      "nrCli": "",
-      "stato": "F",
-      "dataOrdine": "2025-05-29",
-      "dataConsegna": "2025-08-01",
-      "qtaRichiesta": 0,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "sottotipo": "FILO",
-      "base": 30,
-      "altezza": 42,
-      "spessore": 50,
-      "pz": 0,
-      "stampaColori": 0,
-      "riduzioneProdutt": 20,
-      "chiuso": true,
-      "calc": {
-        "ore": 0,
-        "fonte": "interno",
-        "macchinaSuggerita": "DE BERNARDI 1",
-        "nPiste": 2,
-        "qtyLabel": "0 pz",
-        "detail": "DE BERNARDI 1 · 2 piste · 7680 pz/h"
-      },
-      "_suggMac": "DEBE1",
-      "classe": "none",
-      "seq": 1780580274099.017,
-      "oreManual": null,
-      "_open": true
-    },
-    {
-      "id": "orp595uq",
-      "tipo": "sacchi",
-      "cliente": "2025/624",
-      "articolo": "SACCHI PE-LD cm. 15x23+2 sp.50 my / MINIC./ CFS1",
-      "commessa": "",
-      "commessaDesc": "",
-      "codiceOP": "2025/624",
-      "rigaOP": "21261",
-      "nrCli": "",
-      "stato": "F",
-      "dataOrdine": "2025-08-08",
-      "dataConsegna": "2025-08-08",
-      "qtaRichiesta": 0,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "sottotipo": "FILO",
-      "base": 15,
-      "altezza": 25,
-      "spessore": 50,
-      "pz": 0,
-      "stampaColori": 0,
-      "riduzioneProdutt": 20,
-      "chiuso": true,
-      "calc": {
-        "ore": 0,
-        "fonte": "interno",
-        "macchinaSuggerita": "SCAE",
-        "nPiste": 3,
-        "qtyLabel": "0 pz",
-        "detail": "SCAE · 3 piste · 33600 pz/h"
-      },
-      "_suggMac": "SCAE",
-      "classe": "none",
-      "seq": 1780580274100.5742,
-      "oreManual": null,
-      "_open": true
-    },
     {
       "id": "opeuck1d",
       "tipo": "sacchi",
@@ -1128,10 +1050,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ozxv8ht1",
@@ -2923,84 +2846,6 @@
       "_open": true
     },
     {
-      "id": "o22r60ob",
-      "tipo": "bobine",
-      "cliente": "ANTICO FOR",
-      "articolo": "MONOPIEGA PE-LD AZZURRO st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 76+3 (PATELLA) sp.45 my / 1 PISTA",
-      "commessa": "OC26.0680-30",
-      "commessaDesc": "ANTICO FOR  Rich:   Cr: 21/04/2026  Nr: 30",
-      "codiceOP": "2026/325",
-      "rigaOP": "22524",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-22",
-      "dataConsegna": "2026-06-08",
-      "qtaRichiesta": 1740,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 79,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 1740,
-      "scarto": 0,
-      "calc": {
-        "ore": 24.857142857142858,
-        "kgh": 70,
-        "fonte": "interno",
-        "tubolare": 79,
-        "qtyLabel": "1'740 kg",
-        "detail": "Tubolare 79 cm · 45 µ · 70 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274102.1328,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "ot82y82q",
-      "tipo": "bobine",
-      "cliente": "ANTICO FOR",
-      "articolo": "MONOPIEGA PE-LD AZZURRO st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 76+3 (PATELLA) sp.45 my / 1 PISTA",
-      "commessa": "OC26.0681-30",
-      "commessaDesc": "ANTICO FOR  Rich:   Cr: 21/04/2026  Nr: 30",
-      "codiceOP": "2026/327",
-      "rigaOP": "22527",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-22",
-      "dataConsegna": "2026-06-08",
-      "qtaRichiesta": 1740,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 79,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 1740,
-      "scarto": 0,
-      "calc": {
-        "ore": 24.857142857142858,
-        "kgh": 70,
-        "fonte": "interno",
-        "tubolare": 79,
-        "qtyLabel": "1'740 kg",
-        "detail": "Tubolare 79 cm · 45 µ · 70 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274102.522,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
       "id": "ouj049ia",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
@@ -3196,44 +3041,6 @@
       "_open": true
     },
     {
-      "id": "o5ekm2t4",
-      "tipo": "bobine",
-      "cliente": "2026/330",
-      "articolo": "TUBOLARE PE-LD st.BIANCO \"PE-REC+RACC. PL.\" cm. 90 sp.25 my / 3 PISTE",
-      "commessa": "",
-      "commessaDesc": "",
-      "codiceOP": "2026/330",
-      "rigaOP": "22634",
-      "nrCli": "",
-      "stato": "F",
-      "dataOrdine": "2026-04-22",
-      "dataConsegna": "2026-05-08",
-      "qtaRichiesta": 475,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 90,
-      "spessore": 25,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 475,
-      "scarto": 0,
-      "chiuso": true,
-      "calc": {
-        "ore": 7.3076923076923075,
-        "kgh": 65,
-        "fonte": "interno",
-        "tubolare": 90,
-        "qtyLabel": "475 kg",
-        "detail": "Tubolare 90 cm · 25 µ · 65 kg/h"
-      },
-      "classe": "none",
-      "seq": 1780580274102.9402,
-      "oreManual": null,
-      "_open": true
-    },
-    {
       "id": "ol66zsos",
       "tipo": "sacchi",
       "cliente": "2026/336",
@@ -3271,45 +3078,6 @@
       "seq": 1780580274102.983,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "o0spkdtx",
-      "tipo": "bobine",
-      "cliente": "ANTICO FOR",
-      "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 82+3 PATELLA sp.45 my / 1 PISTA",
-      "commessa": "OC26.0684-10",
-      "commessaDesc": "ANTICO FOR  Rich: 07/08/2026  Cr: 21/04/2026  Nr: 10",
-      "codiceOP": "2026/331",
-      "rigaOP": "22547",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-23",
-      "dataConsegna": "2026-06-08",
-      "qtaRichiesta": 298.7,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 85,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 298.7,
-      "scarto": 0,
-      "calc": {
-        "ore": 4.148611111111111,
-        "kgh": 72,
-        "fonte": "interno",
-        "tubolare": 85,
-        "qtyLabel": "299 kg",
-        "detail": "Tubolare 85 cm · 45 µ · 72 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274102.603,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oesmie04",
@@ -3388,45 +3156,6 @@
       "seq": 1780580274103.64,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "oc7yquyk",
-      "tipo": "bobine",
-      "cliente": "CAR PLAST",
-      "articolo": "FOGLIA PE-LD cm. 77 sp.22 my / MICROFORATA/ NO MARCHIETTI/ BOBINA 30KG",
-      "commessa": "OC26.0696-30",
-      "commessaDesc": "CAR PLAST   Rich:   Cr: 23/04/2026  Nr: 30",
-      "codiceOP": "2026/337",
-      "rigaOP": "22558",
-      "nrCli": "696",
-      "stato": "N",
-      "dataOrdine": "2026-04-24",
-      "dataConsegna": "2026-05-22",
-      "qtaRichiesta": 1000,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 77,
-      "spessore": 22,
-      "pesoSpecifico": 0.92,
-      "forma": "foglia",
-      "piste": 1,
-      "kg": 1000,
-      "scarto": 0,
-      "calc": {
-        "ore": 16.129032258064516,
-        "kgh": 62,
-        "fonte": "interno",
-        "tubolare": 77,
-        "qtyLabel": "1'000 kg",
-        "detail": "Tubolare 77 cm · 22 µ · 62 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.9053,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oubr91kz",
@@ -3544,45 +3273,6 @@
       "seq": 1780580274103.9363,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "o0zumt6p",
-      "tipo": "bobine",
-      "cliente": "CAR PLAST",
-      "articolo": "FOGLIA PE-LD st.\"LDPE4\" cm. 29 sp.60 my",
-      "commessa": "OC26.0702-20",
-      "commessaDesc": "CAR PLAST   Rich:   Cr: 24/04/2026  Nr: 20",
-      "codiceOP": "2026/344",
-      "rigaOP": "22581",
-      "nrCli": "702",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-05-29",
-      "qtaRichiesta": 300,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 29,
-      "spessore": 60,
-      "pesoSpecifico": 0.92,
-      "forma": "foglia",
-      "piste": 1,
-      "kg": 300,
-      "scarto": 0,
-      "calc": {
-        "ore": 6.976744186046512,
-        "kgh": 43,
-        "fonte": "esterno",
-        "tubolare": 29,
-        "qtyLabel": "300 kg",
-        "detail": "Tubolare 29 cm · 60 µ · 43 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.2888,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oaj0ns2l",
@@ -3741,162 +3431,6 @@
       "_open": true
     },
     {
-      "id": "ov04czm0",
-      "tipo": "bobine",
-      "cliente": "MONDEOX SP",
-      "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
-      "commessa": "OC26.0697-20",
-      "commessaDesc": "MONDEOX SP  Rich: 02/09/2026  Cr: 23/04/2026  Nr: 20",
-      "codiceOP": "2026/342",
-      "rigaOP": "22568",
-      "nrCli": "",
-      "stato": "P",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-08-07",
-      "qtaRichiesta": 311.4,
-      "qtaProdotta": 177,
-      "date": null,
-      "macId": null,
-      "larghezza": 62,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 311.4,
-      "scarto": 0,
-      "calc": {
-        "ore": 5.368965517241379,
-        "kgh": 58,
-        "fonte": "interno",
-        "tubolare": 62,
-        "qtyLabel": "311 kg",
-        "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.2954,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "obcjnnt8",
-      "tipo": "bobine",
-      "cliente": "MONDEOX SP",
-      "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
-      "commessa": "OC26.0697-30",
-      "commessaDesc": "MONDEOX SP  Rich: 02/09/2026  Cr: 23/04/2026  Nr: 30",
-      "codiceOP": "2026/342",
-      "rigaOP": "22569",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-09-18",
-      "qtaRichiesta": 311.4,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 62,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 311.4,
-      "scarto": 0,
-      "calc": {
-        "ore": 5.368965517241379,
-        "kgh": 58,
-        "fonte": "interno",
-        "tubolare": 62,
-        "qtyLabel": "311 kg",
-        "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.0852,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "o5xaz1ml",
-      "tipo": "bobine",
-      "cliente": "MONDEOX SP",
-      "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
-      "commessa": "OC26.0697-40",
-      "commessaDesc": "MONDEOX SP  Rich: 02/09/2026  Cr: 23/04/2026  Nr: 40",
-      "codiceOP": "2026/342",
-      "rigaOP": "22570",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-10-16",
-      "qtaRichiesta": 281.7132,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 62,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 281.7132,
-      "scarto": 0,
-      "calc": {
-        "ore": 4.857124137931034,
-        "kgh": 58,
-        "fonte": "interno",
-        "tubolare": 62,
-        "qtyLabel": "282 kg",
-        "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.7046,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "oseikl15",
-      "tipo": "bobine",
-      "cliente": "MONDEOX SP",
-      "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.\" cm. 72 sp.50 my / 1 PISTA",
-      "commessa": "OC26.0697-10",
-      "commessaDesc": "MONDEOX SP  Rich: 02/09/2026  Cr: 23/04/2026  Nr: 10",
-      "codiceOP": "2026/342",
-      "rigaOP": "22571",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-09-18",
-      "qtaRichiesta": 100.44,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 72,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 100.44,
-      "scarto": 0,
-      "calc": {
-        "ore": 1.4348571428571428,
-        "kgh": 70,
-        "fonte": "interno",
-        "tubolare": 72,
-        "qtyLabel": "100 kg",
-        "detail": "Tubolare 72 cm · 50 µ · 70 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.2117,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
       "id": "o4w0cqd7",
       "tipo": "sacchi",
       "cliente": "PREMEC S.P",
@@ -3934,45 +3468,6 @@
       "seq": 1780580274103.6667,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "ov0nyu9g",
-      "tipo": "bobine",
-      "cliente": "PREMEC S.P",
-      "articolo": "MONOPIEGA PE-LD st.\"TECHNOGYM+PE-REC+RACC. PL.\" cm. 60 sp.50 my / 1 LATO",
-      "commessa": "OC26.0661-30",
-      "commessaDesc": "PREMEC S.P  Rich: 15/05/2026  Cr: 23/04/2026  Nr: 30",
-      "codiceOP": "2026/47",
-      "rigaOP": "22561",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-05-22",
-      "qtaRichiesta": 120,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 60,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 120,
-      "scarto": 0,
-      "calc": {
-        "ore": 2.0689655172413794,
-        "kgh": 58,
-        "fonte": "interno",
-        "tubolare": 60,
-        "qtyLabel": "120 kg",
-        "detail": "Tubolare 60 cm · 50 µ · 58 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.202,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oorwaob7",
@@ -4092,123 +3587,6 @@
       "_open": true
     },
     {
-      "id": "odqtclr5",
-      "tipo": "bobine",
-      "cliente": "SKYLINE S.",
-      "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
-      "commessa": "OC26.0704-10",
-      "commessaDesc": "SKYLINE S.  Rich: 01/10/2026  Cr: 24/04/2026  Nr: 10",
-      "codiceOP": "2026/343",
-      "rigaOP": "22576",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-06-05",
-      "qtaRichiesta": 22.6,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 90,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 22.6,
-      "scarto": 0,
-      "calc": {
-        "ore": 0.3095890410958904,
-        "kgh": 73,
-        "fonte": "interno",
-        "tubolare": 90,
-        "qtyLabel": "23 kg",
-        "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.3772,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "oe9v5aru",
-      "tipo": "bobine",
-      "cliente": "SKYLINE S.",
-      "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
-      "commessa": "OC26.0703-10",
-      "commessaDesc": "SKYLINE S.  Rich: 01/08/2026  Cr: 24/04/2026  Nr: 10",
-      "codiceOP": "2026/343",
-      "rigaOP": "22577",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-06-05",
-      "qtaRichiesta": 18.08,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 90,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 18.08,
-      "scarto": 0,
-      "calc": {
-        "ore": 0.2476712328767123,
-        "kgh": 73,
-        "fonte": "interno",
-        "tubolare": 90,
-        "qtyLabel": "18 kg",
-        "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.4,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
-      "id": "o3qan1lq",
-      "tipo": "bobine",
-      "cliente": "2026/343",
-      "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
-      "commessa": "",
-      "commessaDesc": "",
-      "codiceOP": "2026/343",
-      "rigaOP": "22579",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-27",
-      "dataConsegna": "2026-06-05",
-      "qtaRichiesta": 226,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 90,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 226,
-      "scarto": 0,
-      "calc": {
-        "ore": 3.095890410958904,
-        "kgh": 73,
-        "fonte": "interno",
-        "tubolare": 90,
-        "qtyLabel": "226 kg",
-        "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.3076,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
-    },
-    {
       "id": "ov1v09va",
       "tipo": "sacchi",
       "cliente": "MINIGRIP -",
@@ -4246,45 +3624,6 @@
       "seq": 1780580274103.6184,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "o60doq1l",
-      "tipo": "bobine",
-      "cliente": "MINIGRIP -",
-      "articolo": "MONOPIEGA PE-LD st.\"BIOHAZARD\" cm. 80 sp.60 my / TRATT. 1 LATO",
-      "commessa": "OC26.0701-20",
-      "commessaDesc": "MINIGRIP -  Rich:   Cr: 24/04/2026  Nr: 20",
-      "codiceOP": "2026/49",
-      "rigaOP": "22597",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-30",
-      "dataConsegna": "2026-05-29",
-      "qtaRichiesta": 380,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 80,
-      "spessore": 60,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 380,
-      "scarto": 0,
-      "calc": {
-        "ore": 5.135135135135135,
-        "kgh": 74,
-        "fonte": "interno",
-        "tubolare": 80,
-        "qtyLabel": "380 kg",
-        "detail": "Tubolare 80 cm · 60 µ · 74 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780580274103.09,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o27h1b94",
@@ -6659,7 +5998,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -6688,7 +6027,8 @@
       },
       "seq": 0.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ouxi1g2s",
@@ -6891,7 +6231,246 @@
       "date": "2026-06-01"
     }
   ],
-  "turni": {},
+  "turni": {
+    "EXT1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "24:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "RIBO1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "DEBE1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "DEBE2": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "SCAE": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "MOBERT1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "MOBERT2": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    }
+  },
   "pause": [],
   "includiSabato": false,
   "riboKgh": 120,
