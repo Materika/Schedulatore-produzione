@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T14:30:41.712Z",
+  "_salvato": "2026-06-04T15:15:38.814Z",
   "ordini": [
     {
       "id": "oq0ccpbs",
@@ -2219,7 +2219,7 @@
         "qtyLabel": "467 kg",
         "detail": "Tubolare 55 cm · 38 µ · 51 kg/h"
       },
-      "classe": "none",
+      "classe": "tassativo",
       "chiuso": false,
       "seq": 2,
       "oreManual": null,
@@ -6689,7 +6689,7 @@
         "1": {
           "attivo": true,
           "inizio": "06:00",
-          "fine": "24:00"
+          "fine": "14:00"
         },
         "2": {
           "attivo": true,
