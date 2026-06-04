@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T13:29:29.878Z",
+  "_salvato": "2026-06-04T13:30:30.075Z",
   "ordini": [
     {
       "id": "oifr9ww9",
@@ -115,10 +115,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.431,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ohawuxr9",
@@ -154,10 +155,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.693,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o72yzgud",
@@ -193,10 +195,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.1562,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "osetpw6z",
@@ -232,10 +235,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.439,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "on5skh81",
@@ -271,10 +275,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.7603,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "om3cfbpg",
@@ -310,10 +315,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.3179,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oytg34gu",
@@ -349,10 +355,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.7974,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o7ci2rii",
@@ -388,10 +395,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743700.7957,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0uln27p",
@@ -427,10 +435,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.108,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oqyut77c",
@@ -466,10 +475,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.5432,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odtwik7l",
@@ -505,10 +515,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.1924,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "omo6o7fb",
@@ -544,10 +555,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.146,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "optecrkq",
@@ -583,10 +595,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.654,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ozvgsp7k",
@@ -622,10 +635,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.3342,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oy2ouzkm",
@@ -661,10 +675,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.0503,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "olddfbg3",
@@ -700,10 +715,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.1184,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0n1yx2i",
@@ -739,10 +755,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.959,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "osepvyxa",
@@ -778,10 +795,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.2812,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o5atosck",
@@ -817,10 +835,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.0427,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o5exh364",
@@ -856,10 +875,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.3481,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogfk4feh",
@@ -895,10 +915,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.2664,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "on12gl8q",
@@ -934,10 +955,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.4038,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ocz715h1",
@@ -973,10 +995,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.0315,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ocu3pcpr",
@@ -1012,10 +1035,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.194,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oxs962v6",
@@ -1051,10 +1075,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.9524,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ovjlxh8u",
@@ -1090,10 +1115,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.547,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oxrcnt79",
@@ -1128,10 +1154,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "otd7t5uj",
@@ -1167,10 +1194,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.678,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ov9no8a7",
@@ -1206,10 +1234,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.4302,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o6rjop6q",
@@ -1245,10 +1274,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.8643,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o6b9pnhn",
@@ -1284,10 +1314,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.2761,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "obg7roqy",
@@ -1323,10 +1354,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.4006,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oqswdz84",
@@ -1362,10 +1394,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogpufguf",
@@ -1401,10 +1434,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.403,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oe5zgwcm",
@@ -1440,10 +1474,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.4146,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o34sa6j7",
@@ -1479,10 +1514,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.602,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o66odwaf",
@@ -1518,10 +1554,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743701.029,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oqezjum6",
@@ -1557,10 +1594,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.7805,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oln0a0l3",
@@ -1596,10 +1634,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.3943,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o4vntyo6",
@@ -1635,10 +1674,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.7886,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ok3kjaln",
@@ -1674,10 +1714,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.5747,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o8ehqzc2",
@@ -1713,10 +1754,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.194,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ovdmhvvv",
@@ -1752,10 +1794,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.7913,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oyb05kg6",
@@ -1791,10 +1834,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.8062,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o3lbzpqm",
@@ -1830,10 +1874,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.6455,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oxfdm8z5",
@@ -1869,10 +1914,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.5552,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oki3963q",
@@ -1908,10 +1954,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.558,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "okp83mir",
@@ -1947,10 +1994,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.9866,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ov0zhljx",
@@ -1986,10 +2034,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.6768,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oyw1otl6",
@@ -2025,10 +2074,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.428,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odqwnat2",
@@ -2064,10 +2114,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.9448,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owo4ucx9",
@@ -2103,10 +2154,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.5464,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oqo7rdw0",
@@ -2142,10 +2194,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.437,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "orpq4qgo",
@@ -2181,10 +2234,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.9475,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ow9bence",
@@ -2219,10 +2273,11 @@
         "detail": "Tubolare 55 cm · 38 µ · 51 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 2,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owv4t8eq",
@@ -2258,10 +2313,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.4148,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "okn7hmdw",
@@ -2297,10 +2353,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.4546,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "onjlsbuk",
@@ -2336,10 +2393,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.1978,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "od28jn7c",
@@ -2375,10 +2433,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.0754,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o5ca9j1e",
@@ -2413,10 +2472,11 @@
         "detail": "Tubolare 29 cm · 80 µ · 46 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 3,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "om9vrdsx",
@@ -2451,10 +2511,11 @@
         "detail": "Tubolare 40 cm · 80 µ · 46 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.7744,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oeeolnvw",
@@ -2489,10 +2550,11 @@
         "detail": "Tubolare 18 cm · 35 µ · 39 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.1316,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o1te0bj4",
@@ -2527,10 +2589,11 @@
         "detail": "Tubolare 26 cm · 35 µ · 39 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.2915,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ofltjon7",
@@ -2566,10 +2629,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.0933,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oy77an8y",
@@ -2605,10 +2669,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.3738,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "omcapmz2",
@@ -2644,10 +2709,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.9126,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "offv00ca",
@@ -2683,10 +2749,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.0767,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o3uep7lj",
@@ -2722,10 +2789,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743702.799,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "os67zdmx",
@@ -2761,10 +2829,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.5164,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oexhdqnu",
@@ -2800,10 +2869,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3706,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oisy4aau",
@@ -2839,10 +2909,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.354,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o7yzs3an",
@@ -2878,10 +2949,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.7915,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ohwpbynr",
@@ -2917,10 +2989,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.4019,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oxntw13d",
@@ -2955,10 +3028,11 @@
         "detail": "Tubolare 79 cm · 45 µ · 70 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.5586,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "og16syv7",
@@ -2993,10 +3067,11 @@
         "detail": "Tubolare 79 cm · 45 µ · 70 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.2295,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owrr2vk3",
@@ -3032,10 +3107,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3562,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ofpmavse",
@@ -3071,10 +3147,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3625,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ofibe6zy",
@@ -3110,10 +3187,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.692,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ophttv77",
@@ -3149,10 +3227,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3796,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owwbnugf",
@@ -3188,10 +3267,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.0173,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oo9easqj",
@@ -3265,10 +3345,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.383,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "okhvwi27",
@@ -3303,10 +3384,11 @@
         "detail": "Tubolare 85 cm · 45 µ · 72 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.5454,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ojcy0rib",
@@ -3342,10 +3424,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.221,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oj6bevid",
@@ -3381,10 +3464,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.2642,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o2nnicnz",
@@ -3419,10 +3503,11 @@
         "detail": "Tubolare 77 cm · 22 µ · 62 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3215,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o1lvyz2y",
@@ -3458,10 +3543,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.6008,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "otvhqz2b",
@@ -3497,10 +3583,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.332,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o23uja0i",
@@ -3536,10 +3623,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.1516,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oc6wmszh",
@@ -3574,10 +3662,11 @@
         "detail": "Tubolare 29 cm · 60 µ · 43 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.034,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "of1i5aek",
@@ -3613,10 +3702,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.1504,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oin3snj3",
@@ -3652,10 +3742,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.732,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "omne5z9j",
@@ -3691,10 +3782,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.6746,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oj28j53a",
@@ -3730,10 +3822,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.6746,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oe8hgcxw",
@@ -3768,10 +3861,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3718,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o8ddmtx6",
@@ -3806,10 +3900,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.6543,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ox0dvktl",
@@ -3844,10 +3939,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.7043,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o72k43eq",
@@ -3882,10 +3978,11 @@
         "detail": "Tubolare 72 cm · 50 µ · 70 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.1418,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oy03ix03",
@@ -3921,10 +4018,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.758,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oreu4xt1",
@@ -3959,10 +4057,11 @@
         "detail": "Tubolare 60 cm · 50 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.977,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oz9q2wco",
@@ -3998,10 +4097,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.666,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o7pknhkr",
@@ -4037,10 +4137,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.821,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odek6xer",
@@ -4076,10 +4177,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.8157,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o5ynyx5z",
@@ -4114,10 +4216,11 @@
         "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.3008,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oko0ex81",
@@ -4152,10 +4255,11 @@
         "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.4575,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9joqgjx",
@@ -4190,10 +4294,11 @@
         "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.869,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oy42y6wa",
@@ -4229,10 +4334,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743703.7224,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ocupvdbk",
@@ -4267,10 +4373,11 @@
         "detail": "Tubolare 80 cm · 60 µ · 74 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.0383,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ook4f5as",
@@ -4305,10 +4412,11 @@
         "detail": "Tubolare 33 cm · 20 µ · 38 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.6658,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ownw1x4j",
@@ -4343,10 +4451,11 @@
         "detail": "Tubolare 25 cm · 30 µ · 38 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.3665,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9yuyxzf",
@@ -4382,10 +4491,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.6406,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ofc0axg5",
@@ -4421,10 +4531,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.5977,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oy6hwzs5",
@@ -4460,10 +4571,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.2676,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0rv3nv2",
@@ -4499,10 +4611,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.596,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oc3zt30z",
@@ -4538,10 +4651,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.067,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ou8j8afu",
@@ -4577,10 +4691,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.9255,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ottw1g9j",
@@ -4616,10 +4731,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.9753,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oql92uoi",
@@ -4655,10 +4771,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.8474,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o4h84brh",
@@ -4694,10 +4811,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.3455,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0aq1nj4",
@@ -4733,10 +4851,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.2788,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oxpnqgwd",
@@ -4772,10 +4891,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.352,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oc1g96ew",
@@ -4810,10 +4930,11 @@
         "detail": "Tubolare 42 cm · 45 µ · 41 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.091,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ov6bej6a",
@@ -4849,10 +4970,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.3147,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9aq1ifu",
@@ -4888,10 +5010,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.3381,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oa3bnvub",
@@ -4926,10 +5049,11 @@
         "detail": "Tubolare 80 cm · 55 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.8303,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odj5y0hc",
@@ -4965,10 +5089,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.0696,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9tqu12q",
@@ -4985,8 +5110,8 @@
       "dataConsegna": "2026-07-17",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 80,
       "spessore": 55,
       "pesoSpecifico": 0.92,
@@ -5004,7 +5129,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.8623,
+      "seq": 4,
       "oreManual": null,
       "_open": true
     },
@@ -5042,10 +5167,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.7908,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oe68sfty",
@@ -5081,10 +5207,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.843,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "og7b6ona",
@@ -5120,10 +5247,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.0066,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9xqlg7v",
@@ -5159,10 +5287,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.199,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0k71hnc",
@@ -5198,10 +5327,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.5913,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogxw49kk",
@@ -5237,10 +5367,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.2454,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ofttjx4p",
@@ -5276,10 +5407,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.9365,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oi8h83w5",
@@ -5315,10 +5447,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.1177,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "orzjghtu",
@@ -5335,8 +5468,8 @@
       "dataConsegna": "2026-07-31",
       "qtaRichiesta": 3000,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 26,
       "spessore": 35,
       "pesoSpecifico": 0.92,
@@ -5354,7 +5487,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.8735,
+      "seq": 5,
       "oreManual": null,
       "_open": true
     },
@@ -5392,10 +5525,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.9805,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogym4g5k",
@@ -5431,10 +5565,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.274,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9d9xds4",
@@ -5470,10 +5605,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.3452,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oev2occv",
@@ -5490,8 +5626,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 98.8,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 45,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -5509,7 +5645,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.8083,
+      "seq": 6,
       "oreManual": null,
       "_open": true
     },
@@ -5528,8 +5664,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 309.2,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 50,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -5547,7 +5683,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.1653,
+      "seq": 7,
       "oreManual": null,
       "_open": true
     },
@@ -5585,10 +5721,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.2913,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oz7q9wld",
@@ -5624,10 +5761,11 @@
       },
       "_suggMac": "MOBERT2",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.2903,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogo9znwp",
@@ -5663,10 +5801,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.9067,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ojb9finw",
@@ -5683,8 +5822,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 200,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 68,
       "spessore": 25,
       "pesoSpecifico": 0.92,
@@ -5702,7 +5841,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.1458,
+      "seq": 8,
       "oreManual": null,
       "_open": true
     },
@@ -5721,8 +5860,8 @@
       "dataConsegna": "2026-06-19",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 160,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -5740,7 +5879,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.1375,
+      "seq": 9,
       "oreManual": null,
       "_open": true
     },
@@ -5759,8 +5898,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 80,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -5778,7 +5917,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.1865,
+      "seq": 10,
       "oreManual": null,
       "_open": true
     },
@@ -5816,10 +5955,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.286,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oyq5uq2e",
@@ -5855,10 +5995,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.86,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oiws7lc5",
@@ -5894,10 +6035,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743704.757,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odeuvq3c",
@@ -5914,8 +6056,8 @@
       "dataConsegna": "2026-06-19",
       "qtaRichiesta": 220,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 70,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -5933,7 +6075,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743704.8708,
+      "seq": 11,
       "oreManual": null,
       "_open": true
     },
@@ -5952,8 +6094,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 100,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 70,
       "spessore": 25,
       "pesoSpecifico": 0.92,
@@ -5971,7 +6113,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743705.8315,
+      "seq": 12,
       "oreManual": null,
       "_open": true
     },
@@ -5990,8 +6132,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 100,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-01",
+      "macId": "EXT1",
       "larghezza": 80,
       "spessore": 25,
       "pesoSpecifico": 0.92,
@@ -6009,7 +6151,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579743705.6406,
+      "seq": 13,
       "oreManual": null,
       "_open": true
     },
@@ -6047,10 +6189,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.2654,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ovfbdu71",
@@ -6124,10 +6267,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.8552,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "orv2dkeh",
@@ -6163,10 +6307,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.363,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ovo8zo6n",
@@ -6202,10 +6347,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.4556,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0krjjpq",
@@ -6241,10 +6387,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.7988,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oth93keh",
@@ -6280,10 +6427,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.35,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o0s37du4",
@@ -6319,10 +6467,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.4055,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o03r1ifo",
@@ -6358,10 +6507,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.3594,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ohrwyumo",
@@ -6397,10 +6547,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.2466,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "of6vt4kf",
@@ -6436,10 +6587,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.8606,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9qgft4z",
@@ -6475,10 +6627,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.2249,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "omti4wo2",
@@ -6514,10 +6667,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.1702,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oqo7bdeo",
@@ -6553,10 +6707,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743706.5361,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "onc6g6wk",
@@ -6592,10 +6747,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743706.8264,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ord8gx80",
@@ -6631,10 +6787,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743706.5107,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ovl8cg7h",
@@ -6753,6 +6910,406 @@
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
       "seq": 2.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "o5sauzyd",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "o9tqu12q",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 3.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "ozo2h79n",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "orzjghtu",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 4.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "oa13q8a7",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "oev2occv",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 5.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "o92615p8",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "ogms0xgc",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 6.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "o55yztar",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "ojb9finw",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 7.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "o71d8yt7",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "o9ul0cqe",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 8.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "oma8h0p5",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "o3wf24wd",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 9.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "o10ejt8q",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "odeuvq3c",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 10.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "oaslo4kr",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "owih9to9",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 11.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "oococ392",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "of7aycbx",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 12.5,
       "macId": "EXT1",
       "date": "2026-06-01"
     }
