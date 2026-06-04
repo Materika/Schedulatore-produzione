@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T14:09:32.235Z",
+  "_salvato": "2026-06-04T14:10:32.314Z",
   "ordini": [
     {
       "id": "oq0ccpbs",
@@ -1128,10 +1128,11 @@
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oaycbo1r",
@@ -6637,46 +6638,6 @@
       "_open": true
     },
     {
-      "id": "ocj56lyc",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "ojtyvcny",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 0.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
       "id": "o72p3qi6",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
@@ -6717,7 +6678,246 @@
       "date": "2026-06-01"
     }
   ],
-  "turni": {},
+  "turni": {
+    "EXT1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "24:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "RIBO1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "DEBE1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "DEBE2": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "SCAE": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "MOBERT1": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    },
+    "MOBERT2": {
+      "giorni": {
+        "0": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "1": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "2": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "3": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "4": {
+          "attivo": true,
+          "inizio": "06:00",
+          "fine": "14:00"
+        },
+        "5": {
+          "attivo": false,
+          "inizio": "06:00",
+          "fine": "14:00"
+        }
+      }
+    }
+  },
   "pause": [],
   "includiSabato": false,
   "riboKgh": 120,
