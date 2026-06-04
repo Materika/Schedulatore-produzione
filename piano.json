@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T13:22:53.699Z",
+  "_salvato": "2026-06-04T13:24:43.305Z",
   "ordini": [
     {
       "id": "opwgidix",
@@ -3152,44 +3152,6 @@
       "classe": "none",
       "chiuso": false,
       "seq": 1780579025588.4727,
-      "oreManual": null,
-      "_open": true
-    },
-    {
-      "id": "ofmchvez",
-      "tipo": "bobine",
-      "cliente": "ANTICO FOR",
-      "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 82+3 PATELLA sp.45 my / 1 PISTA",
-      "commessa": "OC26.0684-10",
-      "commessaDesc": "ANTICO FOR  Rich: 07/08/2026  Cr: 21/04/2026  Nr: 10",
-      "codiceOP": "2026/331",
-      "rigaOP": "22547",
-      "nrCli": "",
-      "stato": "N",
-      "dataOrdine": "2026-04-23",
-      "dataConsegna": "2026-06-08",
-      "qtaRichiesta": 298.7,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 85,
-      "spessore": 45,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 298.7,
-      "scarto": 0,
-      "calc": {
-        "ore": 4.148611111111111,
-        "kgh": 72,
-        "fonte": "interno",
-        "tubolare": 85,
-        "qtyLabel": "299 kg",
-        "detail": "Tubolare 85 cm · 45 µ · 72 kg/h"
-      },
-      "classe": "none",
-      "chiuso": false,
-      "seq": 1780579025588.339,
       "oreManual": null,
       "_open": true
     },
