@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
-  "_versione": 1,
-  "_salvato": "2026-06-04T15:37:12.123Z",
+  "_versione": 2,
+  "_salvato": "2026-06-04T15:54:44.663Z",
   "ordini": [
     {
       "id": "oxi0jwnv",
@@ -6645,6 +6645,7 @@
       "date": "2026-06-01"
     }
   ],
+  "eliminati": [],
   "turni": {
     "EXT1": {
       "giorni": {
@@ -6655,13 +6656,13 @@
         },
         "1": {
           "attivo": true,
-          "inizio": "06:00",
+          "inizio": "00:00",
           "fine": "24:00"
         },
         "2": {
           "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
+          "inizio": "00:00",
+          "fine": "24:00"
         },
         "3": {
           "attivo": true,
