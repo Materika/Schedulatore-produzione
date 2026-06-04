@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T14:30:38.201Z",
+  "_salvato": "2026-06-04T14:30:41.712Z",
   "ordini": [
     {
       "id": "oq0ccpbs",
@@ -6689,7 +6689,7 @@
         "1": {
           "attivo": true,
           "inizio": "06:00",
-          "fine": "14:00"
+          "fine": "24:00"
         },
         "2": {
           "attivo": true,
