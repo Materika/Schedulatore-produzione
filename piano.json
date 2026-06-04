@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T15:33:17.283Z",
+  "_salvato": "2026-06-04T15:36:24.855Z",
   "ordini": [
     {
       "id": "oxi0jwnv",
@@ -6656,7 +6656,7 @@
         "1": {
           "attivo": true,
           "inizio": "06:00",
-          "fine": "14:00"
+          "fine": "24:00"
         },
         "2": {
           "attivo": true,
