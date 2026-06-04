@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T13:30:30.075Z",
+  "_salvato": "2026-06-04T13:32:21.725Z",
   "ordini": [
     {
       "id": "oifr9ww9",
@@ -80,46 +80,6 @@
       "seq": 1780579743700.856,
       "oreManual": null,
       "_open": true
-    },
-    {
-      "id": "odyy03rj",
-      "tipo": "sacchi",
-      "cliente": "IRWAM S.N.",
-      "articolo": "SACCHI PE-LD cm. 60+10+10x130 sp.40 my / PRET. IN BOB./ BOBINA 20KG",
-      "commessa": "OC25.1325-20",
-      "commessaDesc": "IRWAM S.N.  Rich: 04/09/2025  Cr: 04/09/2025  Nr: 20",
-      "codiceOP": "2025/88",
-      "rigaOP": "21124",
-      "nrCli": "1325",
-      "stato": "N",
-      "dataOrdine": "2025-09-04",
-      "dataConsegna": "2025-09-26",
-      "qtaRichiesta": 440,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "sottotipo": "FILO",
-      "base": 80,
-      "altezza": 130,
-      "spessore": 40,
-      "pz": 440,
-      "stampaColori": 0,
-      "riduzioneProdutt": 20,
-      "calc": {
-        "ore": 0.14666666666666667,
-        "fonte": "esterno",
-        "macchinaSuggerita": null,
-        "nPiste": 1,
-        "qtyLabel": "440 pz",
-        "detail": "Fuori misura macchine — stima esterna (3000 pz/h)",
-        "incompat": true
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 1780579743700.431,
-      "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ohawuxr9",
@@ -5128,10 +5088,11 @@
         "detail": "Tubolare 80 cm · 55 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 4,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ocjxx0wl",
@@ -5486,10 +5447,11 @@
         "detail": "Tubolare 26 cm · 35 µ · 39 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 5,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "odko2x75",
@@ -5644,10 +5606,11 @@
         "detail": "Tubolare 45 cm · 50 µ · 42 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 6,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ogms0xgc",
@@ -5682,10 +5645,11 @@
         "detail": "Tubolare 50 cm · 50 µ · 46 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 7,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ocac6xoj",
@@ -5840,10 +5804,11 @@
         "detail": "Tubolare 68 cm · 25 µ · 58 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 8,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o9ul0cqe",
@@ -5878,10 +5843,11 @@
         "detail": "Tubolare 160 cm · 50 µ · 80 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 9,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o3wf24wd",
@@ -5916,10 +5882,11 @@
         "detail": "Tubolare 80 cm · 50 µ · 72 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 10,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "oji4ik4a",
@@ -6074,10 +6041,11 @@
         "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 11,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owih9to9",
@@ -6112,10 +6080,11 @@
         "detail": "Tubolare 70 cm · 25 µ · 60 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 12,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "of7aycbx",
@@ -6150,10 +6119,11 @@
         "detail": "Tubolare 80 cm · 25 µ · 62 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 13,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ou777pdd",
@@ -6228,10 +6198,11 @@
         "detail": "Tubolare 50 cm · 100 µ · 50 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780579743705.7769,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ol9k6xwy",
@@ -6802,7 +6773,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -6831,7 +6802,8 @@
       },
       "seq": 0.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "ov9cjbpn",
@@ -6842,7 +6814,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -6871,7 +6843,8 @@
       },
       "seq": 1.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "owyxi46k",
@@ -6882,7 +6855,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -6911,7 +6884,8 @@
       },
       "seq": 2.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-01",
+      "dataChiusura": "2026-06-04"
     },
     {
       "id": "o5sauzyd",
