@@ -1,10 +1,88 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 1,
-  "_salvato": "2026-06-04T13:24:43.305Z",
+  "_salvato": "2026-06-04T13:29:29.878Z",
   "ordini": [
     {
-      "id": "opwgidix",
+      "id": "oifr9ww9",
+      "tipo": "sacchi",
+      "cliente": "2025/451",
+      "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 30x40+2 sp.50 my / RECYCLED/ MINIC./ CFS2",
+      "commessa": "",
+      "commessaDesc": "",
+      "codiceOP": "2025/451",
+      "rigaOP": "20878",
+      "nrCli": "",
+      "stato": "F",
+      "dataOrdine": "2025-05-29",
+      "dataConsegna": "2025-08-01",
+      "qtaRichiesta": 0,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "sottotipo": "FILO",
+      "base": 30,
+      "altezza": 42,
+      "spessore": 50,
+      "pz": 0,
+      "stampaColori": 0,
+      "riduzioneProdutt": 20,
+      "chiuso": true,
+      "calc": {
+        "ore": 0,
+        "fonte": "interno",
+        "macchinaSuggerita": "DE BERNARDI 1",
+        "nPiste": 2,
+        "qtyLabel": "0 pz",
+        "detail": "DE BERNARDI 1 · 2 piste · 7680 pz/h"
+      },
+      "_suggMac": "DEBE1",
+      "classe": "none",
+      "seq": 1780579743700.0754,
+      "oreManual": null,
+      "_open": true
+    },
+    {
+      "id": "otqp4qnt",
+      "tipo": "sacchi",
+      "cliente": "2025/624",
+      "articolo": "SACCHI PE-LD cm. 15x23+2 sp.50 my / MINIC./ CFS1",
+      "commessa": "",
+      "commessaDesc": "",
+      "codiceOP": "2025/624",
+      "rigaOP": "21261",
+      "nrCli": "",
+      "stato": "F",
+      "dataOrdine": "2025-08-08",
+      "dataConsegna": "2025-08-08",
+      "qtaRichiesta": 0,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "sottotipo": "FILO",
+      "base": 15,
+      "altezza": 25,
+      "spessore": 50,
+      "pz": 0,
+      "stampaColori": 0,
+      "riduzioneProdutt": 20,
+      "chiuso": true,
+      "calc": {
+        "ore": 0,
+        "fonte": "interno",
+        "macchinaSuggerita": "SCAE",
+        "nPiste": 3,
+        "qtyLabel": "0 pz",
+        "detail": "SCAE · 3 piste · 33600 pz/h"
+      },
+      "_suggMac": "SCAE",
+      "classe": "none",
+      "seq": 1780579743700.856,
+      "oreManual": null,
+      "_open": true
+    },
+    {
+      "id": "odyy03rj",
       "tipo": "sacchi",
       "cliente": "IRWAM S.N.",
       "articolo": "SACCHI PE-LD cm. 60+10+10x130 sp.40 my / PRET. IN BOB./ BOBINA 20KG",
@@ -38,12 +116,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025584.4128,
+      "seq": 1780579743700.431,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o21dcmgk",
+      "id": "ohawuxr9",
       "tipo": "sacchi",
       "cliente": "IRWAM S.N.",
       "articolo": "SACCHI PE-LD cm. 60+10+10x130 sp.40 my / PRET. IN BOB./ BOBINA 20KG",
@@ -77,12 +155,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025584.8066,
+      "seq": 1780579743700.693,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "odeenrf0",
+      "id": "o72yzgud",
       "tipo": "sacchi",
       "cliente": "DI MARTINO",
       "articolo": "SACCHI PE-LD cm. 20,3x24,5+3 sp.50 my / 50% RECYCLED/ MINIC./ CFR1",
@@ -116,12 +194,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.1824,
+      "seq": 1780579743700.1562,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ov8fifp5",
+      "id": "osetpw6z",
       "tipo": "sacchi",
       "cliente": "RTECH S.R.",
       "articolo": "SACCHI PE-LD st.\"WARNING 6 L+FRANCIA+SPAGNA\" cm. 35x55 sp.60 my / SF",
@@ -155,12 +233,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.2031,
+      "seq": 1780579743700.439,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ofvx8ek2",
+      "id": "on5skh81",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -194,12 +272,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.1536,
+      "seq": 1780579743700.7603,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oq6nnscj",
+      "id": "om3cfbpg",
       "tipo": "sacchi",
       "cliente": "HARTEC S.R",
       "articolo": "SACCHI PE-HD cm. 35x50 sp.25 my / SF",
@@ -233,12 +311,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.9888,
+      "seq": 1780579743700.3179,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "otvazh64",
+      "id": "oytg34gu",
       "tipo": "sacchi",
       "cliente": "PLASTOPIAV",
       "articolo": "SACCHI PE-HD cm. 96+27+27x120 sp.15 my / SF/ ALIMENTARE-LOTTO:",
@@ -272,12 +350,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.665,
+      "seq": 1780579743700.7974,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ogv5n337",
+      "id": "o7ci2rii",
       "tipo": "sacchi",
       "cliente": "PLASTOPIAV",
       "articolo": "SACCHI PE-HD cm. 96+27+27x120 sp.15 my / SF/ ALIMENTARE-LOTTO:",
@@ -311,12 +389,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.5547,
+      "seq": 1780579743700.7957,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o5gv8ga9",
+      "id": "o0uln27p",
       "tipo": "sacchi",
       "cliente": "PLASTOPIAV",
       "articolo": "SACCHI PE-HD cm. 96+27+27x120 sp.15 my / SF/ ALIMENTARE-LOTTO:",
@@ -350,12 +428,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.1284,
+      "seq": 1780579743701.108,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ojydfr9w",
+      "id": "oqyut77c",
       "tipo": "sacchi",
       "cliente": "PLASTOPIAV",
       "articolo": "SACCHI PE-HD cm. 96+27+27x120 sp.15 my / SF/ ALIMENTARE-LOTTO:",
@@ -389,12 +467,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.5828,
+      "seq": 1780579743701.5432,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "okfamqs6",
+      "id": "odtwik7l",
       "tipo": "sacchi",
       "cliente": "DALBELLO S",
       "articolo": "SACCHI PE-HD st.\"WARNING 9 L+FRANCIA+SPAGNA\" cm. 45x60+3 sp.20 my / RECYCLED/ PAT./ CFS2",
@@ -428,12 +506,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.2185,
+      "seq": 1780579743701.1924,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "og2ak2wv",
+      "id": "omo6o7fb",
       "tipo": "sacchi",
       "cliente": "DALBELLO S",
       "articolo": "SACCHI PE-HD st.\"WARNING 9 L+FRANCIA+SPAGNA\" cm. 45x60+3 sp.20 my / RECYCLED/ PAT./ CFS2",
@@ -467,12 +545,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.892,
+      "seq": 1780579743701.146,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obkeh2sl",
+      "id": "optecrkq",
       "tipo": "sacchi",
       "cliente": "DALBELLO S",
       "articolo": "SACCHI PE-HD st.\"WARNING 9 L+FRANCIA+SPAGNA\" cm. 45x60+3 sp.20 my / RECYCLED/ PAT./ CFS2",
@@ -506,12 +584,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.5496,
+      "seq": 1780579743701.654,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o9xe0iod",
+      "id": "ozvgsp7k",
       "tipo": "sacchi",
       "cliente": "2026/118",
       "articolo": "SACCHI PE-HD st.\"WARNING 13 L+FRANCIA+SPAGNA+ASIA+100% RECYCLED\" cm. 45x50+3 sp.17 my / RECYCLED / PAT./ GOFFR./ CFR1",
@@ -545,12 +623,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.3635,
+      "seq": 1780579743701.3342,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osaeed0g",
+      "id": "oy2ouzkm",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -584,12 +662,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.5886,
+      "seq": 1780579743701.0503,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ozkugbbv",
+      "id": "olddfbg3",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -623,12 +701,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.2874,
+      "seq": 1780579743701.1184,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "on045xe8",
+      "id": "o0n1yx2i",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -662,12 +740,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.723,
+      "seq": 1780579743701.959,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ougb7l40",
+      "id": "osepvyxa",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -701,12 +779,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.0574,
+      "seq": 1780579743701.2812,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ou1psfnu",
+      "id": "o5atosck",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -740,12 +818,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.4534,
+      "seq": 1780579743701.0427,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6mcnmrf",
+      "id": "o5exh364",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+ASIA+SPAGNA\" cm. 12x20+3 sp.20 my / MINIC./ CFS1",
@@ -779,12 +857,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.698,
+      "seq": 1780579743701.3481,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oekmbrv2",
+      "id": "ogfk4feh",
       "tipo": "sacchi",
       "cliente": "THE'LIOS S",
       "articolo": "SACCHI PE-HD st.\"QR+FRANCIA+SPAGNA+ASIA\" cm. 23x32+3 sp.20 my / MINIC./ CFS1",
@@ -818,12 +896,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.8123,
+      "seq": 1780579743701.2664,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oxf7l724",
+      "id": "on12gl8q",
       "tipo": "sacchi",
       "cliente": "2026/153",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 80x220 sp.25 my / SF",
@@ -857,12 +935,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.1794,
+      "seq": 1780579743701.4038,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "og8edu37",
+      "id": "ocz715h1",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD TRASPARENTE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -896,12 +974,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.709,
+      "seq": 1780579743701.0315,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o8svsgda",
+      "id": "ocu3pcpr",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD VERDE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -935,12 +1013,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.2654,
+      "seq": 1780579743701.194,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osh0a6ve",
+      "id": "oxs962v6",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD VERDE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -974,12 +1052,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.584,
+      "seq": 1780579743701.9524,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ob8oyb77",
+      "id": "ovjlxh8u",
       "tipo": "sacchi",
       "cliente": "2026/168",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.25 my / SF",
@@ -1013,12 +1091,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025585.2449,
+      "seq": 1780579743701.547,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "onm0bqwf",
+      "id": "oxrcnt79",
       "tipo": "bobine",
       "cliente": "MONDEOX SP",
       "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
@@ -1032,7 +1110,7 @@
       "dataConsegna": "2026-05-04",
       "qtaRichiesta": 342.546,
       "qtaProdotta": 0,
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "macId": "EXT1",
       "larghezza": 62,
       "spessore": 45,
@@ -1049,14 +1127,14 @@
         "qtyLabel": "343 kg",
         "detail": "Tubolare 62 cm · 45 µ · 58 kg/h"
       },
-      "classe": "tassativo",
+      "classe": "none",
       "chiuso": false,
       "seq": 1,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ozm1799z",
+      "id": "otd7t5uj",
       "tipo": "sacchi",
       "cliente": "MINIGRIP -",
       "articolo": "SACCHI PE-MD st.\"FRANCIA+SPAGNA+ASIA\" cm. 9x30 sp.18 my / MANICOTTI/ SF",
@@ -1090,12 +1168,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.3552,
+      "seq": 1780579743701.678,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o2hberdz",
+      "id": "ov9no8a7",
       "tipo": "sacchi",
       "cliente": "RTECH S.R.",
       "articolo": "SACCHI PE-LD st.\"WARNING 6 L+FRANCIA+SPAGNA\" cm. 25x50 sp.60 my / SF",
@@ -1129,12 +1207,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.9966,
+      "seq": 1780579743701.4302,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ox6cx2rm",
+      "id": "o6rjop6q",
       "tipo": "sacchi",
       "cliente": "RTECH S.R.",
       "articolo": "SACCHI PE-LD st.\"WARNING 6 L+FRANCIA+SPAGNA\" cm. 35x75 sp.60 my / SF",
@@ -1168,12 +1246,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.2485,
+      "seq": 1780579743701.8643,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "okjxce73",
+      "id": "o6b9pnhn",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD TRASPARENTE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1207,12 +1285,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.953,
+      "seq": 1780579743701.2761,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o8qb1ko2",
+      "id": "obg7roqy",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD TRASPARENTE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1246,12 +1324,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.0415,
+      "seq": 1780579743701.4006,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0o8rjrw",
+      "id": "oqswdz84",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD TRASPARENTE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1285,12 +1363,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.3174,
+      "seq": 1780579743701,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ouy3mhjp",
+      "id": "ogpufguf",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD BLU st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1324,12 +1402,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.6807,
+      "seq": 1780579743701.403,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "op6adn5b",
+      "id": "oe5zgwcm",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD BLU st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1363,12 +1441,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.3325,
+      "seq": 1780579743701.4146,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o5jc89o1",
+      "id": "o34sa6j7",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD BLU st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1402,12 +1480,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.564,
+      "seq": 1780579743701.602,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obl3kwnn",
+      "id": "o66odwaf",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD ROSSO st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1441,12 +1519,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.09,
+      "seq": 1780579743701.029,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ou3aknei",
+      "id": "oqezjum6",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD ROSSO st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1480,12 +1558,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.9119,
+      "seq": 1780579743702.7805,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ouk3wq9y",
+      "id": "oln0a0l3",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD VERDE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1519,12 +1597,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.4983,
+      "seq": 1780579743702.3943,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oaz8lit8",
+      "id": "o4vntyo6",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD VERDE st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1558,12 +1636,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.6975,
+      "seq": 1780579743702.7886,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "og0a3j3f",
+      "id": "ok3kjaln",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD GIALLO st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1597,12 +1675,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025586.7966,
+      "seq": 1780579743702.5747,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oy1dzj01",
+      "id": "o8ehqzc2",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD GIALLO st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1636,12 +1714,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.8699,
+      "seq": 1780579743702.194,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o7itvuva",
+      "id": "ovdmhvvv",
       "tipo": "sacchi",
       "cliente": "COOPERATIV",
       "articolo": "SACCHI PE-HD GIALLO st.\"EUREKA\" cm. 61+5+5x110 sp.12 my / SF",
@@ -1675,12 +1753,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.1963,
+      "seq": 1780579743702.7913,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "olcc9yc8",
+      "id": "oyb05kg6",
       "tipo": "sacchi",
       "cliente": "2026/220",
       "articolo": "SACCHI PE-LD cm. 25x35 sp.30 my / SF",
@@ -1714,12 +1792,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.5972,
+      "seq": 1780579743702.8062,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o1u7j6nn",
+      "id": "o3lbzpqm",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 12x19 sp.40 my / SF/ MAZZETTE DA 100PZ",
@@ -1753,12 +1831,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.3193,
+      "seq": 1780579743702.6455,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ouir0yld",
+      "id": "oxfdm8z5",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x100 sp.40 my / CFR2",
@@ -1792,12 +1870,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.1736,
+      "seq": 1780579743702.5552,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "orby9i5m",
+      "id": "oki3963q",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x100 sp.40 my / CFR2",
@@ -1831,12 +1909,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.156,
+      "seq": 1780579743702.558,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oj76y3nh",
+      "id": "okp83mir",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x100 sp.40 my / CFR2",
@@ -1870,12 +1948,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.736,
+      "seq": 1780579743702.9866,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "owmq9buk",
+      "id": "ov0zhljx",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x120 sp.40 my / CFR2",
@@ -1909,12 +1987,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.9248,
+      "seq": 1780579743702.6768,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o3sdlpir",
+      "id": "oyw1otl6",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x120 sp.40 my / CFR2",
@@ -1948,12 +2026,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.741,
+      "seq": 1780579743702.428,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "otpedlaw",
+      "id": "odqwnat2",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 37+9+9x120 sp.40 my / CFR2",
@@ -1987,12 +2065,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.0913,
+      "seq": 1780579743702.9448,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ocd3zb3c",
+      "id": "owo4ucx9",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 50+16+16x120 sp.40 my / CFR2",
@@ -2026,12 +2104,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.7256,
+      "seq": 1780579743702.5464,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ox7i21i3",
+      "id": "oqo7rdw0",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 50+16+16x120 sp.40 my / CFR2",
@@ -2065,12 +2143,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.8926,
+      "seq": 1780579743702.437,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oibfkutc",
+      "id": "orpq4qgo",
       "tipo": "sacchi",
       "cliente": "JOHNSONS A",
       "articolo": "SACCHI PE-LD cm. 50+16+16x120 sp.40 my / CFR2",
@@ -2104,12 +2182,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025587.4028,
+      "seq": 1780579743702.9475,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "od2lz5wg",
+      "id": "ow9bence",
       "tipo": "bobine",
       "cliente": "JOHNSONS A",
       "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC.PL.\" cm 37+9+9 sp.38 my",
@@ -2141,14 +2219,13 @@
         "detail": "Tubolare 55 cm · 38 µ · 51 kg/h"
       },
       "classe": "none",
-      "chiuso": true,
+      "chiuso": false,
       "seq": 2,
       "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-04"
+      "_open": true
     },
     {
-      "id": "ol0bhi70",
+      "id": "owv4t8eq",
       "tipo": "sacchi",
       "cliente": "DALBELLO S",
       "articolo": "SACCHI PE-HD st.\"WARNING 28 L+FRANCIA+SPAGNA\" cm. 45x60+3 sp.20 my / RECYCLED/ PAT./ CFS2",
@@ -2182,12 +2259,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.46,
+      "seq": 1780579743702.4148,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ox7k3jaa",
+      "id": "okn7hmdw",
       "tipo": "sacchi",
       "cliente": "2026/280",
       "articolo": "SACCHI PE-HD cm. 30x40 sp.12 my / CFR1",
@@ -2221,12 +2298,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.6184,
+      "seq": 1780579743702.4546,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ofuslnzs",
+      "id": "onjlsbuk",
       "tipo": "sacchi",
       "cliente": "2026/280",
       "articolo": "SACCHI PE-HD cm. 35x50 sp.12 my / CFR1",
@@ -2260,12 +2337,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.3872,
+      "seq": 1780579743702.1978,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o3d0yewz",
+      "id": "od28jn7c",
       "tipo": "sacchi",
       "cliente": "SILONPAK S",
       "articolo": "SACCHI PE-HD st.\"WARNING 4 L\" cm. 75x170 sp.10 my / CFR1",
@@ -2299,12 +2376,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.3374,
+      "seq": 1780579743702.0754,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osgk82m5",
+      "id": "o5ca9j1e",
       "tipo": "bobine",
       "cliente": "KIT 3 S.R.",
       "articolo": "FOGLIA PE-LD cm. 29 sp.80 my / MICROFORATA/ BOBINA 25KG",
@@ -2337,12 +2414,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 9,
+      "seq": 3,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o2kbupeg",
+      "id": "om9vrdsx",
       "tipo": "bobine",
       "cliente": "KIT 3 S.R.",
       "articolo": "FOGLIA PE-LD cm. 40 sp.80 my / MICROFORATA/ BOBINA 25KG",
@@ -2356,8 +2433,8 @@
       "dataConsegna": "2026-06-05",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 40,
       "spessore": 80,
       "pesoSpecifico": 0.92,
@@ -2375,12 +2452,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 4,
+      "seq": 1780579743702.7744,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oegyqc6w",
+      "id": "oeeolnvw",
       "tipo": "bobine",
       "cliente": "L.I.C.A.R.",
       "articolo": "MONOPIEGA PE-LD cm. 18 sp.35 my / NO MARCHIETTI/ MICROFORATA",
@@ -2394,8 +2471,8 @@
       "dataConsegna": "2026-05-29",
       "qtaRichiesta": 1500,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 18,
       "spessore": 35,
       "pesoSpecifico": 0.92,
@@ -2411,14 +2488,14 @@
         "qtyLabel": "1'500 kg",
         "detail": "Tubolare 18 cm · 35 µ · 39 kg/h"
       },
-      "classe": "tassativo",
+      "classe": "none",
       "chiuso": false,
-      "seq": 5,
+      "seq": 1780579743702.1316,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "om2qp8f0",
+      "id": "o1te0bj4",
       "tipo": "bobine",
       "cliente": "L.I.C.A.R.",
       "articolo": "MONOPIEGA PE-LD cm. 26 sp.35 my / NO MARCHIETTI/ MICROFORATA/ BOBINA 700MTL",
@@ -2432,8 +2509,8 @@
       "dataConsegna": "2026-05-29",
       "qtaRichiesta": 2500,
       "qtaProdotta": 1265,
-      "date": "2026-06-01",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 26,
       "spessore": 35,
       "pesoSpecifico": 0.92,
@@ -2449,14 +2526,14 @@
         "qtyLabel": "2'500 kg",
         "detail": "Tubolare 26 cm · 35 µ · 39 kg/h"
       },
-      "classe": "trattato",
+      "classe": "none",
       "chiuso": false,
-      "seq": 6,
+      "seq": 1780579743702.2915,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oor4hkc3",
+      "id": "ofltjon7",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 12x19 sp.40 my / SF/ MAZZETTE DA 100PZ",
@@ -2490,12 +2567,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.11,
+      "seq": 1780579743702.0933,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oc2zca7e",
+      "id": "oy77an8y",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 12x19 sp.40 my / SF/ MAZZETTE DA 100PZ",
@@ -2529,12 +2606,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.376,
+      "seq": 1780579743702.3738,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o8xtl63e",
+      "id": "omcapmz2",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 12x19 sp.40 my / SF/ MAZZETTE DA 100PZ",
@@ -2568,12 +2645,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.2903,
+      "seq": 1780579743702.9126,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obcaersc",
+      "id": "offv00ca",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 12x19 sp.40 my / SF/ MAZZETTE DA 100PZ",
@@ -2607,12 +2684,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.0857,
+      "seq": 1780579743702.0767,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ojf3vzam",
+      "id": "o3uep7lj",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 20x30 sp.30 my / SF/ MAZZETTE DA 100 PZ",
@@ -2646,12 +2723,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.536,
+      "seq": 1780579743702.799,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "odgrb9zz",
+      "id": "os67zdmx",
       "tipo": "sacchi",
       "cliente": "VIMAR S.P.",
       "articolo": "SACCHI PE-LD cm. 20x30 sp.30 my / SF/ MAZZETTE DA 100 PZ",
@@ -2685,12 +2762,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.7898,
+      "seq": 1780579743703.5164,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "otmvwrvr",
+      "id": "oexhdqnu",
       "tipo": "sacchi",
       "cliente": "ALPINESTAR",
       "articolo": "SACCHI PE-LD SAGOMATI st.\"ALPINESTARS+WARNING 1 L+FRANCIA+GERMANIA+SPAGNA\" cm. 60+5+5x200 sp.30 my / SF",
@@ -2724,12 +2801,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.396,
+      "seq": 1780579743703.3706,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6yqzl2f",
+      "id": "oisy4aau",
       "tipo": "sacchi",
       "cliente": "RO+TEN SRL",
       "articolo": "SACCHI PE-LD cm. 25x35+2 sp.50 my / MINIC./ SF",
@@ -2763,12 +2840,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.534,
+      "seq": 1780579743703.354,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ozk169rn",
+      "id": "o7yzs3an",
       "tipo": "sacchi",
       "cliente": "RO+TEN SRL",
       "articolo": "SACCHI PE-LD cm. 25x35+2 sp.50 my / MINIC./ SF",
@@ -2802,12 +2879,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.7888,
+      "seq": 1780579743703.7915,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ovgbjqq2",
+      "id": "ohwpbynr",
       "tipo": "sacchi",
       "cliente": "RO+TEN SRL",
       "articolo": "SACCHI PE-LD cm. 25x46+2 sp.70 my / MINIC./ SF",
@@ -2841,12 +2918,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.0122,
+      "seq": 1780579743703.4019,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o5xmkek1",
+      "id": "oxntw13d",
       "tipo": "bobine",
       "cliente": "ANTICO FOR",
       "articolo": "MONOPIEGA PE-LD AZZURRO st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 76+3 (PATELLA) sp.45 my / 1 PISTA",
@@ -2860,8 +2937,8 @@
       "dataConsegna": "2026-06-08",
       "qtaRichiesta": 1740,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 79,
       "spessore": 45,
       "pesoSpecifico": 0.92,
@@ -2879,12 +2956,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 7,
+      "seq": 1780579743703.5586,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ohqu9nif",
+      "id": "og16syv7",
       "tipo": "bobine",
       "cliente": "ANTICO FOR",
       "articolo": "MONOPIEGA PE-LD AZZURRO st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 76+3 (PATELLA) sp.45 my / 1 PISTA",
@@ -2898,8 +2975,8 @@
       "dataConsegna": "2026-06-08",
       "qtaRichiesta": 1740,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 79,
       "spessore": 45,
       "pesoSpecifico": 0.92,
@@ -2915,14 +2992,14 @@
         "qtyLabel": "1'740 kg",
         "detail": "Tubolare 79 cm · 45 µ · 70 kg/h"
       },
-      "classe": "tassativo",
+      "classe": "none",
       "chiuso": false,
-      "seq": 8,
+      "seq": 1780579743703.2295,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oviu80ha",
+      "id": "owrr2vk3",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
       "articolo": "SACCHI PE-LD AZZURRI \"CARRE' 120\" cm. 27x69+6,5 SOFF.+3 PAT. sp.45 my / CFR2/ ALIMENTARE-LOTTO:",
@@ -2956,12 +3033,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.0999,
+      "seq": 1780579743703.3562,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ojqfhsky",
+      "id": "ofpmavse",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
       "articolo": "SACCHI PE-LD AZZURRI \"CARRE' 120\" cm. 27x69+6,5 SOFF.+3 PAT. sp.45 my / CFR2/ ALIMENTARE-LOTTO:",
@@ -2995,12 +3072,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.5735,
+      "seq": 1780579743703.3625,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o7w9wrij",
+      "id": "ofibe6zy",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
       "articolo": "SACCHI PE-LD AZZURRI \"CARRE' 120\" cm. 27x69+6,5 SOFF.+3 PAT. sp.45 my / CFR2/ ALIMENTARE-LOTTO:",
@@ -3034,12 +3111,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.8457,
+      "seq": 1780579743703.692,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osbd9w3h",
+      "id": "ophttv77",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
       "articolo": "SACCHI PE-LD AZZURRI \"CARRE' 120\" cm. 27x69+6,5 SOFF.+3 PAT. sp.45 my / CFR2/ ALIMENTARE-LOTTO:",
@@ -3073,12 +3150,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.8943,
+      "seq": 1780579743703.3796,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "odg64mlg",
+      "id": "owwbnugf",
       "tipo": "sacchi",
       "cliente": "PLASTIDUE",
       "articolo": "SACCHI PE-LD NERO cm. 38+18+18x80 sp.30 my / SBHT/ SF",
@@ -3112,12 +3189,50 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.0952,
+      "seq": 1780579743703.0173,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obph1f4c",
+      "id": "oo9easqj",
+      "tipo": "bobine",
+      "cliente": "2026/330",
+      "articolo": "TUBOLARE PE-LD st.BIANCO \"PE-REC+RACC. PL.\" cm. 90 sp.25 my / 3 PISTE",
+      "commessa": "",
+      "commessaDesc": "",
+      "codiceOP": "2026/330",
+      "rigaOP": "22634",
+      "nrCli": "",
+      "stato": "F",
+      "dataOrdine": "2026-04-22",
+      "dataConsegna": "2026-05-08",
+      "qtaRichiesta": 475,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "larghezza": 90,
+      "spessore": 25,
+      "pesoSpecifico": 0.92,
+      "forma": "tubolare",
+      "piste": 1,
+      "kg": 475,
+      "scarto": 0,
+      "chiuso": true,
+      "calc": {
+        "ore": 7.3076923076923075,
+        "kgh": 65,
+        "fonte": "interno",
+        "tubolare": 90,
+        "qtyLabel": "475 kg",
+        "detail": "Tubolare 90 cm · 25 µ · 65 kg/h"
+      },
+      "classe": "none",
+      "seq": 1780579743703.929,
+      "oreManual": null,
+      "_open": true
+    },
+    {
+      "id": "oe0k0d2l",
       "tipo": "sacchi",
       "cliente": "2026/336",
       "articolo": "SACCHI PE-LD cm. 15x25+2 sp. 50 my / MINIC.",
@@ -3151,12 +3266,50 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.4727,
+      "seq": 1780579743703.383,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ojqlsjx5",
+      "id": "okhvwi27",
+      "tipo": "bobine",
+      "cliente": "ANTICO FOR",
+      "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.+PER ALIMENTI+NR. LOTTO\" cm. 82+3 PATELLA sp.45 my / 1 PISTA",
+      "commessa": "OC26.0684-10",
+      "commessaDesc": "ANTICO FOR  Rich: 07/08/2026  Cr: 21/04/2026  Nr: 10",
+      "codiceOP": "2026/331",
+      "rigaOP": "22547",
+      "nrCli": "",
+      "stato": "N",
+      "dataOrdine": "2026-04-23",
+      "dataConsegna": "2026-06-08",
+      "qtaRichiesta": 298.7,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "larghezza": 85,
+      "spessore": 45,
+      "pesoSpecifico": 0.92,
+      "forma": "monopiega",
+      "piste": 1,
+      "kg": 298.7,
+      "scarto": 0,
+      "calc": {
+        "ore": 4.148611111111111,
+        "kgh": 72,
+        "fonte": "interno",
+        "tubolare": 85,
+        "qtyLabel": "299 kg",
+        "detail": "Tubolare 85 cm · 45 µ · 72 kg/h"
+      },
+      "classe": "none",
+      "chiuso": false,
+      "seq": 1780579743703.5454,
+      "oreManual": null,
+      "_open": true
+    },
+    {
+      "id": "ojcy0rib",
       "tipo": "sacchi",
       "cliente": "2026/336",
       "articolo": "SACCHI PE-LD cm. 10x15 sp.30 my / SF",
@@ -3190,12 +3343,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.0771,
+      "seq": 1780579743703.221,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o8c9aim4",
+      "id": "oj6bevid",
       "tipo": "sacchi",
       "cliente": "ANTICO FOR",
       "articolo": "SACCHI PE-LD \"CARRE' 160\" cm. 36,5x75+7 SOFF.+3 PAT. sp.45 my / CFR2/ ALIMENTARE-LOTTO:",
@@ -3229,12 +3382,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.5293,
+      "seq": 1780579743703.2642,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6xcl5li",
+      "id": "o2nnicnz",
       "tipo": "bobine",
       "cliente": "CAR PLAST",
       "articolo": "FOGLIA PE-LD cm. 77 sp.22 my / MICROFORATA/ NO MARCHIETTI/ BOBINA 30KG",
@@ -3267,12 +3420,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.5967,
+      "seq": 1780579743703.3215,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oz0zy3e3",
+      "id": "o1lvyz2y",
       "tipo": "sacchi",
       "cliente": "SKYLINE S.",
       "articolo": "BORSE PE-LD st.\"WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / SF/ MANIGLIA RIGIDA NERA/ GRANDE",
@@ -3306,12 +3459,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.818,
+      "seq": 1780579743703.6008,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o4gx8mqt",
+      "id": "otvhqz2b",
       "tipo": "sacchi",
       "cliente": "SKYLINE S.",
       "articolo": "BORSE PE-LD st.\"WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / SF/ MANIGLIA RIGIDA NERA/ GRANDE",
@@ -3345,12 +3498,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.5054,
+      "seq": 1780579743703.332,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ocqh4eaa",
+      "id": "o23uja0i",
       "tipo": "sacchi",
       "cliente": "2026/48",
       "articolo": "BORSE PE-LD st.\"WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / SF/ MANIGLIA RIGIDA NERA/ GRANDE",
@@ -3384,12 +3537,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.8225,
+      "seq": 1780579743703.1516,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o30s911f",
+      "id": "oc6wmszh",
       "tipo": "bobine",
       "cliente": "CAR PLAST",
       "articolo": "FOGLIA PE-LD st.\"LDPE4\" cm. 29 sp.60 my",
@@ -3422,12 +3575,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025588.2427,
+      "seq": 1780579743703.034,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o3nws8iw",
+      "id": "of1i5aek",
       "tipo": "sacchi",
       "cliente": "MONDEOX SP",
       "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 40x60+2 sp.50 my / RECYCLED/ MINIC./ CFR2",
@@ -3461,12 +3614,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.2058,
+      "seq": 1780579743703.1504,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o4zuh8xm",
+      "id": "oin3snj3",
       "tipo": "sacchi",
       "cliente": "MONDEOX SP",
       "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 40x60+2 sp.50 my / RECYCLED/ MINIC./ CFR2",
@@ -3500,12 +3653,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7297,
+      "seq": 1780579743703.732,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oaa7nz3r",
+      "id": "omne5z9j",
       "tipo": "sacchi",
       "cliente": "MONDEOX SP",
       "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 40x60+2 sp.50 my / RECYCLED/ MINIC./ CFR2",
@@ -3539,12 +3692,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.2388,
+      "seq": 1780579743703.6746,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obslems9",
+      "id": "oj28j53a",
       "tipo": "sacchi",
       "cliente": "MONDEOX SP",
       "articolo": "SACCHI PE-LD cm. 50x70+2 sp.50 my / MINIC./ CFR2",
@@ -3578,12 +3731,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.1033,
+      "seq": 1780579743703.6746,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oxwx1x93",
+      "id": "oe8hgcxw",
       "tipo": "bobine",
       "cliente": "MONDEOX SP",
       "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
@@ -3616,12 +3769,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.59,
+      "seq": 1780579743703.3718,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0v06zfe",
+      "id": "o8ddmtx6",
       "tipo": "bobine",
       "cliente": "MONDEOX SP",
       "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
@@ -3654,12 +3807,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.105,
+      "seq": 1780579743703.6543,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o9loirvq",
+      "id": "ox0dvktl",
       "tipo": "bobine",
       "cliente": "MONDEOX SP",
       "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" 1 LATO cm. 62 sp.45 my / RECYCLED/ 1 PISTA",
@@ -3692,12 +3845,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7834,
+      "seq": 1780579743703.7043,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oofo30ak",
+      "id": "o72k43eq",
       "tipo": "bobine",
       "cliente": "MONDEOX SP",
       "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.\" cm. 72 sp.50 my / 1 PISTA",
@@ -3730,12 +3883,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.2292,
+      "seq": 1780579743703.1418,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oeks0duh",
+      "id": "oy03ix03",
       "tipo": "sacchi",
       "cliente": "PREMEC S.P",
       "articolo": "SACCHI PE-LD st.\"TECHNOGYM\" cm. 12x60 sp.50 my / SF",
@@ -3769,12 +3922,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0964,
+      "seq": 1780579743703.758,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6o1rbsz",
+      "id": "oreu4xt1",
       "tipo": "bobine",
       "cliente": "PREMEC S.P",
       "articolo": "MONOPIEGA PE-LD st.\"TECHNOGYM+PE-REC+RACC. PL.\" cm. 60 sp.50 my / 1 LATO",
@@ -3807,12 +3960,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.2615,
+      "seq": 1780579743703.977,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o1lcuwe9",
+      "id": "oz9q2wco",
       "tipo": "sacchi",
       "cliente": "SKYLINE S.",
       "articolo": "SACCHI PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / DA MANIGLIARE",
@@ -3846,12 +3999,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7917,
+      "seq": 1780579743703.666,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "odvh2opi",
+      "id": "o7pknhkr",
       "tipo": "sacchi",
       "cliente": "SKYLINE S.",
       "articolo": "SACCHI PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / DA MANIGLIARE",
@@ -3885,12 +4038,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.8225,
+      "seq": 1780579743703.821,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ohiw6qb5",
+      "id": "odek6xer",
       "tipo": "sacchi",
       "cliente": "2026/343",
       "articolo": "SACCHI PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 31+7+7x60 sp.50 my / DA MANIGLIARE",
@@ -3924,12 +4077,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.4248,
+      "seq": 1780579743703.8157,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o4enr7g0",
+      "id": "o5ynyx5z",
       "tipo": "bobine",
       "cliente": "SKYLINE S.",
       "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
@@ -3962,12 +4115,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.5168,
+      "seq": 1780579743703.3008,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oz337t6r",
+      "id": "oko0ex81",
       "tipo": "bobine",
       "cliente": "SKYLINE S.",
       "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
@@ -4000,12 +4153,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.1277,
+      "seq": 1780579743703.4575,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osv2w6gg",
+      "id": "o9joqgjx",
       "tipo": "bobine",
       "cliente": "2026/343",
       "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.+WARNING 4 L+M+LOVE THE PLANET\" cm. 90 sp.45 my / 2 PISTE",
@@ -4038,12 +4191,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.3418,
+      "seq": 1780579743703.869,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o61m9knc",
+      "id": "oy42y6wa",
       "tipo": "sacchi",
       "cliente": "MINIGRIP -",
       "articolo": "SACCHI PE-LD st.\"BIOHAZARD\" cm. 40x55+3 sp.60 my / MINIC./ TASCA cm.22/ SF",
@@ -4077,12 +4230,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7363,
+      "seq": 1780579743703.7224,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6fdukmz",
+      "id": "ocupvdbk",
       "tipo": "bobine",
       "cliente": "MINIGRIP -",
       "articolo": "MONOPIEGA PE-LD st.\"BIOHAZARD\" cm. 80 sp.60 my / TRATT. 1 LATO",
@@ -4115,12 +4268,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.1587,
+      "seq": 1780579743704.0383,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oa3h4lii",
+      "id": "ook4f5as",
       "tipo": "bobine",
       "cliente": "RHINO WORK",
       "articolo": "FOGLI PE-HD B/L cm. 33x100 sp.20 my",
@@ -4153,12 +4306,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.3757,
+      "seq": 1780579743704.6658,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "omoj5g44",
+      "id": "ownw1x4j",
       "tipo": "bobine",
       "cliente": "POLYMAXITA",
       "articolo": "FOGLIA PE-LD st.\"PE-REC+RACC. PL.\" cm. 25 sp.30 my",
@@ -4191,12 +4344,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0557,
+      "seq": 1780579743704.3665,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ox8lktwa",
+      "id": "o9yuyxzf",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4230,12 +4383,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.9429,
+      "seq": 1780579743704.6406,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ondu7mt7",
+      "id": "ofc0axg5",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4269,12 +4422,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0344,
+      "seq": 1780579743704.5977,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oyu86bc7",
+      "id": "oy6hwzs5",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4308,12 +4461,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.763,
+      "seq": 1780579743704.2676,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "of94le9l",
+      "id": "o0rv3nv2",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4347,12 +4500,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.327,
+      "seq": 1780579743704.596,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oidtkgb0",
+      "id": "oc3zt30z",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4386,12 +4539,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.6226,
+      "seq": 1780579743704.067,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ousxhfyf",
+      "id": "ou8j8afu",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4425,12 +4578,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.8386,
+      "seq": 1780579743704.9255,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "of7bdl1m",
+      "id": "ottw1g9j",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4464,12 +4617,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.4458,
+      "seq": 1780579743704.9753,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oatzqssc",
+      "id": "oql92uoi",
       "tipo": "sacchi",
       "cliente": "2026/361",
       "articolo": "SACCHI PE-MD ANTISTATICO cm. 100x220 sp.35 my / SF",
@@ -4503,12 +4656,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0698,
+      "seq": 1780579743704.8474,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o76yxcx4",
+      "id": "o4h84brh",
       "tipo": "sacchi",
       "cliente": "IP CLEANIN",
       "articolo": "SACCHI PE-LD cm. 130+30+30x100 sp.30 my / MICROFORATI",
@@ -4542,12 +4695,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.8943,
+      "seq": 1780579743704.3455,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ow07r7tv",
+      "id": "o0aq1nj4",
       "tipo": "sacchi",
       "cliente": "MONTURA S.",
       "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 30x40+2 sp.50 my / RECYCLED/ MINIC./ CFS2",
@@ -4581,12 +4734,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.8428,
+      "seq": 1780579743704.2788,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ox3i5i1b",
+      "id": "oxpnqgwd",
       "tipo": "sacchi",
       "cliente": "MONTURA S.",
       "articolo": "SACCHI PE-LD st.\"WARNING 4 L+100% RECYCLED+FRANCIA+SPAGNA\" cm. 40x60+2 sp.50 my / RECYCLED/ MINIC./ CFS2",
@@ -4620,12 +4773,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0452,
+      "seq": 1780579743704.352,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ov1swygf",
+      "id": "oc1g96ew",
       "tipo": "bobine",
       "cliente": "MONTURA S.",
       "articolo": "MONOPIEGA PE-LD st.\"WARNING 4 L+PE-REC+RACC. PL.+100% RECYCLED+FRANCIA+SPAGNA\" cm. 42 sp.45 my / RECYCLED/ 1 PISTA",
@@ -4658,12 +4811,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.678,
+      "seq": 1780579743704.091,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oamwym6m",
+      "id": "ov6bej6a",
       "tipo": "sacchi",
       "cliente": "2026/365",
       "articolo": "SACCHI PE-LD cm. 20x36 sp.100 my / SF",
@@ -4697,12 +4850,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7034,
+      "seq": 1780579743704.3147,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oyeqew07",
+      "id": "o9aq1ifu",
       "tipo": "sacchi",
       "cliente": "DI MARTINO",
       "articolo": "SACCHI PE-LD cm. 40+17+17x115 sp.50 my / SF",
@@ -4736,12 +4889,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.9275,
+      "seq": 1780579743704.3381,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oy3wvjwk",
+      "id": "oa3bnvub",
       "tipo": "bobine",
       "cliente": "GAZZIERO S",
       "articolo": "MONOPIEGA PE-LD cm. 80 sp.55 my / TRATT. 1 LATO",
@@ -4774,12 +4927,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.9734,
+      "seq": 1780579743704.8303,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oo6tn6xv",
+      "id": "odj5y0hc",
       "tipo": "sacchi",
       "cliente": "GAZZIERO S",
       "articolo": "SACCHI PE-LD st.\"GAZZIERO+PFC\" cm. 30x80 sp.55 my / CFR2",
@@ -4813,12 +4966,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.1948,
+      "seq": 1780579743704.0696,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ogwali6a",
+      "id": "o9tqu12q",
       "tipo": "bobine",
       "cliente": "GAZZIERO S",
       "articolo": "MONOPIEGA PE-LD st.\"GAZZIERO+PFC FREE+PE-REC+RACC. PL.\" 1 LATO cm. 80 sp.55 my",
@@ -4851,12 +5004,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.9172,
+      "seq": 1780579743704.8623,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oafl77jx",
+      "id": "ocjxx0wl",
       "tipo": "sacchi",
       "cliente": "TAPI' S.P.",
       "articolo": "SACCHI PE-HD VERDE cm. 42+13+13x100 sp.30 my / SF",
@@ -4890,12 +5043,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.674,
+      "seq": 1780579743704.7908,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oe6jpjtx",
+      "id": "oe68sfty",
       "tipo": "sacchi",
       "cliente": "TAPI' S.P.",
       "articolo": "SACCHI PE-HD VERDE cm. 42+13+13x100 sp.30 my / SF",
@@ -4929,12 +5082,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.4119,
+      "seq": 1780579743704.843,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "od8espjx",
+      "id": "og7b6ona",
       "tipo": "sacchi",
       "cliente": "TAPI' S.P.",
       "articolo": "SACCHI PE-HD VERDE cm. 42+13+13x100 sp.30 my / SF",
@@ -4968,12 +5121,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0625,
+      "seq": 1780579743704.0066,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obg6i7ep",
+      "id": "o9xqlg7v",
       "tipo": "sacchi",
       "cliente": "TAPI' S.P.",
       "articolo": "SACCHI PE-HD VERDE cm. 42+13+13x100 sp.30 my / SF",
@@ -5007,12 +5160,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.0864,
+      "seq": 1780579743704.199,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obt4s6cs",
+      "id": "o0k71hnc",
       "tipo": "sacchi",
       "cliente": "FLACONPLAS",
       "articolo": "SACCHI PE-HD cm. 80+30+30x125 sp.17 my / SF/ PER ALIMENTI-LOTTO:",
@@ -5046,12 +5199,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.762,
+      "seq": 1780579743704.5913,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o61o3dp5",
+      "id": "ogxw49kk",
       "tipo": "sacchi",
       "cliente": "MINIGRIP -",
       "articolo": "SACCHI PE-LD st.\"MEDESY\" cm. 18x25+2 sp.50 my / MINIC./ SF",
@@ -5085,12 +5238,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025589.7153,
+      "seq": 1780579743704.2454,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "okqwhdoi",
+      "id": "ofttjx4p",
       "tipo": "sacchi",
       "cliente": "MINIGRIP -",
       "articolo": "SACCHI PE-LD st.\"MEDESY\" cm. 25x31,5+3 sp.50 my / MINIC./ SF",
@@ -5124,12 +5277,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.5317,
+      "seq": 1780579743704.9365,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ow2w9mxq",
+      "id": "oi8h83w5",
       "tipo": "sacchi",
       "cliente": "PUNTO S.R.",
       "articolo": "SACCHI PPL cm. 16x23,5+3 sp.30 my / PAT./ SF",
@@ -5163,12 +5316,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.51,
+      "seq": 1780579743704.1177,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o6woa3km",
+      "id": "orzjghtu",
       "tipo": "bobine",
       "cliente": "L.I.C.A.R.",
       "articolo": "MONOPIEGA PE-LD cm. 26 sp.35 my / NO MARCHIETTI/ MICROFORATA/ BOBINA 700MTL",
@@ -5201,12 +5354,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.235,
+      "seq": 1780579743704.8735,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0ci8mfy",
+      "id": "odko2x75",
       "tipo": "sacchi",
       "cliente": "LORENZ S.R",
       "articolo": "SACCHI PE-LD cm. 58+20+20x85 sp.75 my / CFR2",
@@ -5240,12 +5393,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.6746,
+      "seq": 1780579743704.9805,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oe35sbh2",
+      "id": "ogym4g5k",
       "tipo": "sacchi",
       "cliente": "CONFSPORT",
       "articolo": "SACCHI PE-LD st.\"ENERGIAPURA+100% RECYCLED+FRANCIA+SPAGNA\" cm. 35x50+3 sp.55 my / RECYCLED/ MINIC./ CFS1",
@@ -5279,12 +5432,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.6367,
+      "seq": 1780579743704.274,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o1tpes8h",
+      "id": "o9d9xds4",
       "tipo": "sacchi",
       "cliente": "MAGLIFICIO",
       "articolo": "SACCHI PE-LD st.\"WARNING 6 L+100% RECYCLED+ASIA+GERMANIA+FRANCIA+SPAGNA\" cm. 40x50 sp.50 my / RECYCLED/ CFS1",
@@ -5318,12 +5471,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.8083,
+      "seq": 1780579743704.3452,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o1o25ap9",
+      "id": "oev2occv",
       "tipo": "bobine",
       "cliente": "NEMESIS SR",
       "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.\" cm. 40+5 (PAT.) sp.50 my / RECYCLED/ 1 PISTA",
@@ -5356,12 +5509,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.7524,
+      "seq": 1780579743704.8083,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o696fq7i",
+      "id": "ogms0xgc",
       "tipo": "bobine",
       "cliente": "NEMESIS SR",
       "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL\" cm. 45+5 (PAT.) sp.50 my / RECYCLED/ 1 PISTA",
@@ -5394,12 +5547,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.947,
+      "seq": 1780579743704.1653,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oob1vebc",
+      "id": "ocac6xoj",
       "tipo": "sacchi",
       "cliente": "NEMESIS SR",
       "articolo": "SACCHI PE-LD cm. 25x40+5 sp.50 my / RECYCLED/ PAT. BIAD./ CFR1",
@@ -5433,12 +5586,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.7183,
+      "seq": 1780579743704.2913,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ojzk8yyz",
+      "id": "oz7q9wld",
       "tipo": "sacchi",
       "cliente": "NEMESIS SR",
       "articolo": "SACCHI PE-LD cm. 35x45+5 sp.50 my / RECYCLED/ PAT. BIAD./ CFR1",
@@ -5472,12 +5625,12 @@
       "_suggMac": "MOBERT2",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.1023,
+      "seq": 1780579743704.2903,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ohp2aeq5",
+      "id": "ogo9znwp",
       "tipo": "sacchi",
       "cliente": "NEMESIS SR",
       "articolo": "SACCHI PE-LD SAGOMATI COPRIABITO cm. 58+5+5x140 / SFUSI/ CFA1",
@@ -5511,12 +5664,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.8745,
+      "seq": 1780579743704.9067,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "on65im84",
+      "id": "ojb9finw",
       "tipo": "bobine",
       "cliente": "NEMESIS SR",
       "articolo": "TUBOLARE PE-LD st.\"PE-REC+RACC. PL.\" cm. 58+5+5 sp.25 my / 1 PISTA",
@@ -5549,12 +5702,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.6323,
+      "seq": 1780579743704.1458,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ofbxpzrt",
+      "id": "o9ul0cqe",
       "tipo": "bobine",
       "cliente": "FOLLADOR S",
       "articolo": "FOGLI PE-LD cm. 160x180 sp.50 my / PRET. IN BOBINA/ BOBINA 80CM",
@@ -5587,12 +5740,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.502,
+      "seq": 1780579743704.1375,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0fowmwu",
+      "id": "o3wf24wd",
       "tipo": "bobine",
       "cliente": "FOLLADOR S",
       "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.\" cm. 80 sp.50 my / 1 PISTA",
@@ -5625,12 +5778,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.8132,
+      "seq": 1780579743704.1865,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oaudnwks",
+      "id": "oji4ik4a",
       "tipo": "sacchi",
       "cliente": "IRWAM S.N.",
       "articolo": "SACCHI PE-LD cm. 35x50 sp.25 my / NO MARCHIETTI / SF",
@@ -5664,12 +5817,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.4814,
+      "seq": 1780579743704.286,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "otehw8jr",
+      "id": "oyq5uq2e",
       "tipo": "sacchi",
       "cliente": "IRWAM S.N.",
       "articolo": "SACCHI PE-LD cm. 40x50 sp.25 my / NO MARCHIETTI / SF",
@@ -5703,12 +5856,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.9705,
+      "seq": 1780579743704.86,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o7h0e95w",
+      "id": "oiws7lc5",
       "tipo": "sacchi",
       "cliente": "RIELLO SPA",
       "articolo": "SACCHI PE-LD cm. 130+45+45x200 sp.60 my / SF",
@@ -5742,12 +5895,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.7717,
+      "seq": 1780579743704.757,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oxaanef9",
+      "id": "odeuvq3c",
       "tipo": "bobine",
       "cliente": "IRWAM S.N.",
       "articolo": "TUBOLARE PE-LD cm. 60+5+5 / NO MARCHIETTI/ BOBINA 20KG",
@@ -5780,12 +5933,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.715,
+      "seq": 1780579743704.8708,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "omyo832g",
+      "id": "owih9to9",
       "tipo": "bobine",
       "cliente": "IRWAM S.N.",
       "articolo": "TUBOLARE PE-LD cm. 70 sp.25 my / NO MARCHIETTI",
@@ -5818,12 +5971,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.0986,
+      "seq": 1780579743705.8315,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o57fs6rc",
+      "id": "of7aycbx",
       "tipo": "bobine",
       "cliente": "IRWAM S.N.",
       "articolo": "TUBOLARE PE-LD cm. 80 sp.25 my / NO MARCHIETTI",
@@ -5856,12 +6009,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.4128,
+      "seq": 1780579743705.6406,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o683a86n",
+      "id": "ou777pdd",
       "tipo": "sacchi",
       "cliente": "PODERI IMB",
       "articolo": "SACCHI PE-LD st.\"CARBOTECH\" cm. 10x14 sp.90 my / SF",
@@ -5895,12 +6048,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.0276,
+      "seq": 1780579743705.2654,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o7hdmy5t",
+      "id": "ovfbdu71",
       "tipo": "bobine",
       "cliente": "FAMI S.R.L",
       "articolo": "FOGLIA PE-LD cm. 50 sp.100 my / TERMORETRAIBILE/ NO MARCHIETTI",
@@ -5933,12 +6086,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.3638,
+      "seq": 1780579743705.7769,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o43eolit",
+      "id": "ol9k6xwy",
       "tipo": "sacchi",
       "cliente": "SICAM S.R.",
       "articolo": "SACCHI PE-LD cm. 80x80 sp.50 my / SF",
@@ -5972,12 +6125,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.5195,
+      "seq": 1780579743705.8552,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osle904g",
+      "id": "orv2dkeh",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD cm. 120x240 sp.25 my / CFR4",
@@ -6011,12 +6164,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.2776,
+      "seq": 1780579743705.363,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0onuu0q",
+      "id": "ovo8zo6n",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD cm. 120x240 sp.25 my / CFR4",
@@ -6050,12 +6203,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.4988,
+      "seq": 1780579743705.4556,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oj0kenz3",
+      "id": "o0krjjpq",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD cm. 120x240 sp.25 my / CFR4",
@@ -6089,12 +6242,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.1926,
+      "seq": 1780579743705.7988,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "opxc9kjv",
+      "id": "oth93keh",
       "tipo": "sacchi",
       "cliente": "SIRETESSIL",
       "articolo": "SACCHI PE-MD cm. 120x240 sp.25 my / CFR4",
@@ -6128,12 +6281,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.7014,
+      "seq": 1780579743705.35,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oig299a1",
+      "id": "o0s37du4",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-LD cm. 17x25+2 sp.50 my / MINIC./ CFR1",
@@ -6167,12 +6320,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.3918,
+      "seq": 1780579743705.4055,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "orgt2gj7",
+      "id": "o03r1ifo",
       "tipo": "sacchi",
       "cliente": "KEP ITALIA",
       "articolo": "SACCHI PE-LD cm. 60x75 sp.50 my / CFS3",
@@ -6206,12 +6359,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.2507,
+      "seq": 1780579743705.3594,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o19mj8ud",
+      "id": "ohrwyumo",
       "tipo": "sacchi",
       "cliente": "SORELLE CO",
       "articolo": "SACCHI PE-LD cm. 70x50 sp.70 my / SENZA BHT/ CFR1",
@@ -6245,12 +6398,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.0537,
+      "seq": 1780579743705.2466,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "oaeimaue",
+      "id": "of6vt4kf",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-LD cm. 75+25+25x80 sp.50 my / SF",
@@ -6284,12 +6437,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.5347,
+      "seq": 1780579743705.8606,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "o0m9iema",
+      "id": "o9qgft4z",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-HD cm. 92+23+23x90 sp.20 my / SF",
@@ -6323,12 +6476,12 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.7515,
+      "seq": 1780579743705.2249,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ofj41kdd",
+      "id": "omti4wo2",
       "tipo": "sacchi",
       "cliente": "MAD IN ITA",
       "articolo": "SACCHI PE-LD st.\"MAD IN ITALY+FRANCIA+UKCA\" cm.9,5x18+2 sp.50 my / MINIC./ CFR1",
@@ -6362,12 +6515,12 @@
       "_suggMac": "SCAE",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.696,
+      "seq": 1780579743705.1702,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "osr9w0pj",
+      "id": "oqo7bdeo",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-LD st.\"ASTORIA\" cm. 30x50 sp.100 my / SF",
@@ -6401,12 +6554,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.8132,
+      "seq": 1780579743706.5361,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "ovah0x7p",
+      "id": "onc6g6wk",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-LD st.\"ASTORIA\" cm. 30x50 sp.100 my / SF",
@@ -6440,12 +6593,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.6223,
+      "seq": 1780579743706.8264,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "odlhumsw",
+      "id": "ord8gx80",
       "tipo": "sacchi",
       "cliente": "CMA MACCHI",
       "articolo": "SACCHI PE-LD st.\"ASTORIA\" cm. 30x50 sp.100 my / SF",
@@ -6479,12 +6632,12 @@
       "_suggMac": "DEBE1",
       "classe": "none",
       "chiuso": false,
-      "seq": 1780579025590.0808,
+      "seq": 1780579743706.5107,
       "oreManual": null,
       "_open": true
     },
     {
-      "id": "obig98an",
+      "id": "ovl8cg7h",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
       "articolo": "Attrezzaggio macchina",
@@ -6496,7 +6649,7 @@
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
-      "_setupFor": "onm0bqwf",
+      "_setupFor": "oxrcnt79",
       "larghezza": 0,
       "spessore": 0,
       "forma": "tubolare",
@@ -6521,10 +6674,10 @@
       },
       "seq": 0.5,
       "macId": "EXT1",
-      "date": "2026-06-02"
+      "date": "2026-06-01"
     },
     {
-      "id": "oanaacyp",
+      "id": "ov9cjbpn",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
       "articolo": "Attrezzaggio macchina",
@@ -6536,7 +6689,7 @@
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
-      "_setupFor": "od2lz5wg",
+      "_setupFor": "ow9bence",
       "larghezza": 0,
       "spessore": 0,
       "forma": "tubolare",
@@ -6564,7 +6717,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "oqvjef0d",
+      "id": "owyxi46k",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
       "articolo": "Attrezzaggio macchina",
@@ -6576,7 +6729,7 @@
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
-      "_setupFor": "osgk82m5",
+      "_setupFor": "o5ca9j1e",
       "larghezza": 0,
       "spessore": 0,
       "forma": "tubolare",
@@ -6599,451 +6752,12 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 8.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "olsfu8jq",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "o2kbupeg",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 3.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "o4rvbboh",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "oegyqc6w",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 4.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "oo9s98qb",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "om2qp8f0",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 5.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "on1ulu70",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "o5xmkek1",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 6.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "oxgvvgql",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "ohqu9nif",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 7.5,
+      "seq": 2.5,
       "macId": "EXT1",
       "date": "2026-06-01"
     }
   ],
-  "turni": {
-    "EXT1": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "24:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "RIBO1": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "DEBE1": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "DEBE2": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "SCAE": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "MOBERT1": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    },
-    "MOBERT2": {
-      "giorni": {
-        "0": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "1": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "2": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "3": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "4": {
-          "attivo": true,
-          "inizio": "06:00",
-          "fine": "14:00"
-        },
-        "5": {
-          "attivo": false,
-          "inizio": "06:00",
-          "fine": "14:00"
-        }
-      }
-    }
-  },
+  "turni": {},
   "pause": [],
   "includiSabato": false,
   "riboKgh": 120,
