@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:48:27.352Z",
+  "_salvato": "2026-06-05T12:49:10.382Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -152,7 +152,7 @@
         "qtyLabel": "1'460 kg",
         "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
       },
-      "classe": "none",
+      "classe": "tassativo",
       "chiuso": false,
       "seq": 1780663641930.1768,
       "oreManual": null,
@@ -190,7 +190,7 @@
         "qtyLabel": "2'300 kg",
         "detail": "Tubolare 65 cm · 50 µ · 63 kg/h"
       },
-      "classe": "none",
+      "classe": "tassativo",
       "chiuso": false,
       "seq": 1780663641930.142,
       "oreManual": null,
