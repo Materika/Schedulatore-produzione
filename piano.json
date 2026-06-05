@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:52:53.674Z",
+  "_salvato": "2026-06-05T12:53:07.835Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -5942,46 +5942,6 @@
       "date": "2026-06-08"
     },
     {
-      "id": "op2kujh9",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "od2pt81l",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 3.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
       "id": "ot58thhw",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
@@ -6694,6 +6654,10 @@
     {
       "id": "o0ab72fh",
       "ts": 1780663971663
+    },
+    {
+      "id": "op2kujh9",
+      "ts": 1780663985838
     }
   ],
   "turni": {
