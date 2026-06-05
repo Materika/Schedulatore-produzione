@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:15:58.145Z",
+  "_salvato": "2026-06-05T14:27:32.327Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -153,10 +153,11 @@
         "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
       },
       "classe": "tassativo",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "ojw7zm0f",
@@ -5749,46 +5750,6 @@
       "_open": true
     },
     {
-      "id": "oiut3gwl",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "o3lvsaqh",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 0.5,
-      "macId": "EXT1",
-      "date": "2026-06-01"
-    },
-    {
       "id": "o5mbfcph",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
@@ -6305,6 +6266,46 @@
       "seq": 1954431.2200000002,
       "macId": "EXT1",
       "date": "2026-06-08"
+    },
+    {
+      "id": "oiut3gwl",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "o3lvsaqh",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 0.5,
+      "macId": "EXT1",
+      "date": "2026-06-01"
     }
   ],
   "eliminati": [
