@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:57:38.846Z",
+  "_salvato": "2026-06-05T12:57:43.080Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -385,7 +385,7 @@
       },
       "classe": "tassativo",
       "chiuso": false,
-      "seq": 4,
+      "seq": 4.5,
       "oreManual": null,
       "_open": false
     },
@@ -5778,7 +5778,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 3.5,
+      "seq": 4,
       "macId": "EXT1",
       "date": "2026-06-08"
     },
