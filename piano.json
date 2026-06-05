@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T15:01:38.254Z",
+  "_salvato": "2026-06-05T15:01:44.775Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -5637,7 +5637,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -5666,7 +5666,8 @@
       },
       "seq": 3.5,
       "macId": "EXT1",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "oqr6mymd",
@@ -5677,7 +5678,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -5706,7 +5707,8 @@
       },
       "seq": 5.25,
       "macId": "EXT1",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "dataChiusura": "2026-06-05"
     }
   ],
   "eliminati": [
