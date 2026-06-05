@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-04T15:54:44.663Z",
+  "_salvato": "2026-06-05T06:21:29.705Z",
   "ordini": [
     {
       "id": "oxi0jwnv",
@@ -2298,7 +2298,7 @@
         "qtyLabel": "500 kg",
         "detail": "Tubolare 29 cm · 80 µ · 46 kg/h"
       },
-      "classe": "none",
+      "classe": "trattato",
       "chiuso": false,
       "seq": 3,
       "oreManual": null,
