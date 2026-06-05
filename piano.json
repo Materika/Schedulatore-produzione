@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:55:58.230Z",
+  "_salvato": "2026-06-05T12:57:03.268Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -387,7 +387,7 @@
       "chiuso": false,
       "seq": 6.5,
       "oreManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "ohfa9c3b",
@@ -775,7 +775,7 @@
       "chiuso": false,
       "seq": 7.5,
       "oreManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "onpy7tme",
@@ -792,7 +792,7 @@
       "dataConsegna": "2026-07-20",
       "qtaRichiesta": 168,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
+      "date": "2026-06-05",
       "macId": "EXT1",
       "larghezza": 87,
       "spessore": 35,
@@ -811,9 +811,9 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 8.5,
+      "seq": 1,
       "oreManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "oxyas05y",
@@ -1163,7 +1163,7 @@
       "chiuso": false,
       "seq": 9.5,
       "oreManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "o4vmlmxl",
@@ -1435,7 +1435,7 @@
       "chiuso": false,
       "seq": 10.5,
       "oreManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "oz7rtb06",
@@ -5975,9 +5975,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 8,
+      "seq": 0.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-05"
     },
     {
       "id": "o6piax3u",
