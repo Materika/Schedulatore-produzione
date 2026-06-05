@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:50:06.140Z",
+  "_salvato": "2026-06-05T12:50:38.576Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -228,11 +228,12 @@
         "detail": "Ribobinatura · 120 kg/h"
       },
       "classe": "tassativo",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780663779067.4133,
       "oreManual": null,
       "_open": true,
-      "_tipoManuale": true
+      "_tipoManuale": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "ojd9mo42",
