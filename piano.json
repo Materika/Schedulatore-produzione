@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T13:18:36.881Z",
+  "_salvato": "2026-06-05T13:18:46.789Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -1126,11 +1126,11 @@
         "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
       },
       "classe": "none",
-      "chiuso": true,
+      "chiuso": false,
       "seq": 3,
       "oreManual": null,
       "_open": true,
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": null
     },
     {
       "id": "oz7rtb06",
@@ -6067,6 +6067,46 @@
       "seq": 6.5,
       "macId": "EXT1",
       "date": "2026-06-03"
+    },
+    {
+      "id": "oslw1zph",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "osxobkze",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 2.5,
+      "macId": "EXT1",
+      "date": "2026-06-02"
     },
     {
       "id": "oiq08zh1",
