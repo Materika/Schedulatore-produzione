@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:57:42.593Z",
+  "_salvato": "2026-06-05T14:58:06.658Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -1277,7 +1277,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 4.75,
+      "seq": 4,
       "oreManual": null,
       "_open": true
     },
@@ -2511,11 +2511,10 @@
         "detail": "Tubolare 90 cm · 45 µ · 73 kg/h"
       },
       "classe": "none",
-      "chiuso": true,
-      "seq": 3.75,
+      "chiuso": false,
+      "seq": 0,
       "oreManual": null,
-      "_open": true,
-      "dataChiusura": "2026-06-05"
+      "_open": true
     },
     {
       "id": "od5w58cb",
@@ -5638,7 +5637,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": true,
+      "chiuso": false,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -5665,10 +5664,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 4.25,
+      "seq": 3.5,
       "macId": "EXT1",
-      "date": "2026-06-05",
-      "dataChiusura": "2026-06-05"
+      "date": "2026-06-05"
     },
     {
       "id": "oelb5hoe",
@@ -5951,44 +5949,6 @@
       "date": "2026-06-05"
     },
     {
-      "id": "omsma29p",
-      "tipo": "bobine",
-      "cliente": "⏱ SLOT",
-      "articolo": "Segnaposto / fermo",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": true,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "macId": "EXT1",
-      "date": "2026-06-05",
-      "oreManual": 16,
-      "_open": true,
-      "seq": -1,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "oraInizio": null,
-      "oraFine": null,
-      "dataConsegna": null,
-      "dataChiusura": "2026-06-05"
-    },
-    {
       "id": "onv1i4jm",
       "tipo": "bobine",
       "cliente": "🔧 SETUP",
@@ -5997,7 +5957,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": true,
+      "chiuso": false,
       "_tipoManuale": true,
       "_segnaposto": true,
       "_setup": true,
@@ -6024,10 +5984,46 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 3.25,
+      "seq": -0.5,
+      "macId": "EXT1",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "omsma29p",
+      "tipo": "bobine",
+      "cliente": "⏱ SLOT",
+      "articolo": "Segnaposto / fermo",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
       "macId": "EXT1",
       "date": "2026-06-05",
-      "dataChiusura": "2026-06-05"
+      "oreManual": 18,
+      "_open": true,
+      "seq": 2,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "oraInizio": null,
+      "oraFine": null,
+      "dataConsegna": null
     }
   ],
   "eliminati": [
