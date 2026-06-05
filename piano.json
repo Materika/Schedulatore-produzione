@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:35:54.740Z",
+  "_salvato": "2026-06-05T14:36:02.557Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -3451,6 +3451,44 @@
       "seq": 1780665680963.2092,
       "oreManual": null,
       "_open": true
+    },
+    {
+      "id": "oyf6gwhj",
+      "tipo": "ribobina",
+      "cliente": "L.I.C.A.R.",
+      "articolo": "MONOPIEGA PE-LD cm. 18 sp.35 my / NO MARCHIETTI/ MICROFORATA",
+      "commessa": "OC26.0646-20",
+      "commessaDesc": "L.I.C.A.R.  Rich: 29/05/2026  Cr: 16/04/2026  Nr: 20",
+      "codiceOP": " [RIBO]",
+      "rigaOP": "-R",
+      "nrCli": "",
+      "stato": "",
+      "dataOrdine": null,
+      "dataConsegna": "2026-05-29",
+      "qtaRichiesta": 1500,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "larghezza": 18,
+      "spessore": 35,
+      "pesoSpecifico": 0.92,
+      "forma": "monopiega",
+      "piste": 1,
+      "kg": 1500,
+      "scarto": 0,
+      "calc": {
+        "ore": 12.5,
+        "kgh": 120,
+        "fonte": "interno",
+        "qtyLabel": "1'500 kg",
+        "detail": "Ribobinatura · 120 kg/h"
+      },
+      "classe": "none",
+      "chiuso": false,
+      "seq": 1780670160414.7673,
+      "oreManual": null,
+      "_open": true,
+      "_tipoManuale": true
     },
     {
       "id": "opx0467i",
