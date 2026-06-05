@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:43:26.264Z",
+  "_salvato": "2026-06-05T12:43:28.381Z",
   "ordini": [
     {
       "id": "ok7dcsbo",
@@ -232,10 +232,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780582156768.3928,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "onvl0t6h",
@@ -388,10 +389,11 @@
       },
       "_suggMac": "DEBE1",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780582156768.4143,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "ofp01ekl",
@@ -427,10 +429,11 @@
       },
       "_suggMac": "SCAE",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780582156768.4875,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "of78xy7r",
@@ -739,10 +742,11 @@
         "incompat": true
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 1780582156768.477,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-05"
     },
     {
       "id": "o599lbrr",
