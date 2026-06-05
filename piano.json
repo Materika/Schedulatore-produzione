@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T12:59:19.899Z",
+  "_salvato": "2026-06-05T12:59:23.470Z",
   "ordini": [
     {
       "id": "okzl6mjm",
@@ -1492,7 +1492,7 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 100,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
+      "date": "2026-06-03",
       "macId": "EXT1",
       "larghezza": 80,
       "spessore": 25,
@@ -1511,7 +1511,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 12.5,
+      "seq": 3,
       "oreManual": null,
       "_open": true
     },
@@ -1569,7 +1569,7 @@
       "dataConsegna": "2026-06-19",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
+      "date": "2026-06-03",
       "macId": "EXT1",
       "larghezza": 160,
       "spessore": 50,
@@ -1588,7 +1588,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 13.5,
+      "seq": 4,
       "oreManual": null,
       "_open": true
     },
@@ -1607,7 +1607,7 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 500,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
+      "date": "2026-06-04",
       "macId": "EXT1",
       "larghezza": 80,
       "spessore": 50,
@@ -1626,7 +1626,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 14.5,
+      "seq": 1,
       "oreManual": null,
       "_open": true
     },
@@ -6137,9 +6137,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 12,
+      "seq": 2.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-03"
     },
     {
       "id": "ocakvwcz",
@@ -6177,9 +6177,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 13,
+      "seq": 3.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-03"
     },
     {
       "id": "o77a8qg7",
@@ -6217,9 +6217,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 14,
+      "seq": 0.5,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-04"
     },
     {
       "id": "ovst9bk5",
