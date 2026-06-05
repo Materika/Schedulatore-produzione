@@ -1,126 +1,8 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:50:21.124Z",
-  "ordini": [
-    {
-      "id": "o9e7102p",
-      "tipo": "ribobina",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "oyf6gwhj",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 120,
-        "fonte": "interno",
-        "qtyLabel": "0 kg",
-        "detail": "Ribobinatura · 120 kg/h"
-      },
-      "seq": 1.5,
-      "macId": "RIBO1",
-      "date": "2026-06-05"
-    },
-    {
-      "id": "oi8jti8c",
-      "tipo": "ribobina",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "oesf25w6",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 120,
-        "fonte": "interno",
-        "qtyLabel": "0 kg",
-        "detail": "Ribobinatura · 120 kg/h"
-      },
-      "seq": 2.5,
-      "macId": "RIBO1",
-      "date": "2026-06-05"
-    },
-    {
-      "id": "ov0rj1i7",
-      "tipo": "ribobina",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "oesf25w6",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 120,
-        "fonte": "interno",
-        "qtyLabel": "0 kg",
-        "detail": "Ribobinatura · 120 kg/h"
-      },
-      "seq": 0.5,
-      "macId": "RIBO1",
-      "date": "2026-06-05"
-    }
-  ],
+  "_salvato": "2026-06-05T14:50:35.115Z",
+  "ordini": [],
   "eliminati": [
     {
       "id": "oxi0jwnv",
@@ -2257,6 +2139,18 @@
     {
       "id": "o6zxj106",
       "ts": 1780671018916
+    },
+    {
+      "id": "o9e7102p",
+      "ts": 1780671033022
+    },
+    {
+      "id": "oi8jti8c",
+      "ts": 1780671033022
+    },
+    {
+      "id": "ov0rj1i7",
+      "ts": 1780671033022
     }
   ],
   "turni": {
