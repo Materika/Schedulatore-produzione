@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:55:26.831Z",
+  "_salvato": "2026-06-05T14:55:44.572Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -5987,40 +5987,6 @@
       "seq": -0.5,
       "macId": "EXT1",
       "date": "2026-06-05"
-    },
-    {
-      "id": "omsma29p",
-      "tipo": "bobine",
-      "cliente": "⏱ SLOT",
-      "articolo": "Segnaposto / fermo",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "macId": "EXT1",
-      "date": "2026-06-05",
-      "oreManual": 0.5,
-      "_open": true,
-      "seq": 2,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      }
     }
   ],
   "eliminati": [
@@ -8175,6 +8141,10 @@
     {
       "id": "odeghjr7",
       "ts": 1780671098311
+    },
+    {
+      "id": "omsma29p",
+      "ts": 1780671341992
     }
   ],
   "turni": {
