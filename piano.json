@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T13:58:02.565Z",
+  "_salvato": "2026-06-05T13:58:08.281Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -173,7 +173,7 @@
       "dataConsegna": "2026-06-26",
       "qtaRichiesta": 2300,
       "qtaProdotta": 0,
-      "date": "2026-06-01",
+      "date": "2026-06-05",
       "macId": "EXT1",
       "larghezza": 65,
       "spessore": 50,
@@ -192,7 +192,7 @@
       },
       "classe": "tassativo",
       "chiuso": false,
-      "seq": 2,
+      "seq": 2908925.0020000003,
       "oreManual": null,
       "_open": true
     },
@@ -5744,9 +5744,9 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 1.5,
+      "seq": 2908924.5020000003,
       "macId": "EXT1",
-      "date": "2026-06-01"
+      "date": "2026-06-05"
     },
     {
       "id": "oj05h6sd",
