@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T13:58:08.281Z",
+  "_salvato": "2026-06-05T13:58:37.366Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -405,7 +405,7 @@
       "dataConsegna": "2026-06-26",
       "qtaRichiesta": 438,
       "qtaProdotta": 0,
-      "date": "2026-06-08",
+      "date": "2026-06-11",
       "macId": "EXT1",
       "larghezza": 62,
       "spessore": 50,
@@ -424,7 +424,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 2908920.0020000003,
+      "seq": 340890.546875,
       "oreManual": null,
       "_open": true,
       "oraInizio": null,
@@ -5982,7 +5982,7 @@
       },
       "classe": "tassativo",
       "chiuso": false,
-      "seq": 681780.09375,
+      "seq": 170445.7734375,
       "oreManual": null,
       "_open": true
     },
@@ -6022,9 +6022,49 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 681779.59375,
+      "seq": 170445.2734375,
       "macId": "EXT1",
       "date": "2026-06-10"
+    },
+    {
+      "id": "o6f49we2",
+      "tipo": "bobine",
+      "cliente": "🔧 SETUP",
+      "articolo": "Attrezzaggio macchina",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "_setup": true,
+      "_setupFor": "o1n1am0x",
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "base": 0,
+      "altezza": 0,
+      "sottotipo": "FILO",
+      "pz": 0,
+      "oreManual": 0.5,
+      "_open": false,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
+      },
+      "seq": 340890.046875,
+      "macId": "EXT1",
+      "date": "2026-06-11"
     }
   ],
   "eliminati": [
