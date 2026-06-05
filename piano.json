@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:27:32.327Z",
+  "_salvato": "2026-06-05T14:27:34.424Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -153,11 +153,11 @@
         "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
       },
       "classe": "tassativo",
-      "chiuso": true,
+      "chiuso": false,
       "seq": 1,
       "oreManual": null,
       "_open": true,
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": null
     },
     {
       "id": "ojw7zm0f",
