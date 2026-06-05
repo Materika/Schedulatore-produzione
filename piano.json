@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:48:55.937Z",
+  "_salvato": "2026-06-05T14:49:12.452Z",
   "ordini": [
     {
       "id": "o9e7102p",
@@ -78,7 +78,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 2908939.5020000003,
+      "seq": 1,
       "macId": "EXT1",
       "date": "2026-06-05"
     },
@@ -158,7 +158,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 2908941.5020000003,
+      "seq": 1,
       "macId": "EXT1",
       "date": "2026-06-05"
     },
@@ -198,7 +198,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 2908942.5020000003,
+      "seq": 1,
       "macId": "EXT1",
       "date": "2026-06-05"
     },
@@ -278,7 +278,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 2908944.5020000003,
+      "seq": 1,
       "macId": "EXT1",
       "date": "2026-06-05"
     },
@@ -318,7 +318,7 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "seq": 2908945.5020000003,
+      "seq": 1,
       "macId": "EXT1",
       "date": "2026-06-05"
     },
