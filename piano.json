@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T14:35:06.298Z",
+  "_salvato": "2026-06-05T14:35:13.799Z",
   "ordini": [
     {
       "id": "o8pw0kru",
@@ -2328,44 +2328,6 @@
       "classe": "none",
       "chiuso": false,
       "seq": 1780665680961.1462,
-      "oreManual": null,
-      "_open": true
-    },
-    {
-      "id": "orsy4tu3",
-      "tipo": "bobine",
-      "cliente": "—",
-      "articolo": "TUBOLARE PE-LD st.BIANCO \"PE-REC+RACC. PL.\" cm. 90 sp.25 my / 3 PISTE",
-      "commessa": "",
-      "commessaDesc": "",
-      "codiceOP": "",
-      "rigaOP": "",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-05-08",
-      "qtaRichiesta": 475,
-      "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
-      "larghezza": 90,
-      "spessore": 25,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 475,
-      "scarto": 0,
-      "calc": {
-        "ore": 7.3076923076923075,
-        "kgh": 65,
-        "fonte": "interno",
-        "tubolare": 90,
-        "qtyLabel": "475 kg",
-        "detail": "Tubolare 90 cm · 25 µ · 65 kg/h"
-      },
-      "classe": "none",
-      "chiuso": false,
-      "seq": 2908939.0020000003,
       "oreManual": null,
       "_open": true
     },
@@ -6785,46 +6747,6 @@
       "seq": 2908937.5020000003,
       "macId": "EXT1",
       "date": "2026-06-05"
-    },
-    {
-      "id": "oisce2sn",
-      "tipo": "bobine",
-      "cliente": "🔧 SETUP",
-      "articolo": "Attrezzaggio macchina",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "_setup": true,
-      "_setupFor": "orsy4tu3",
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "base": 0,
-      "altezza": 0,
-      "sottotipo": "FILO",
-      "pz": 0,
-      "oreManual": 0.5,
-      "_open": false,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "seq": 2908938.5020000003,
-      "macId": "EXT1",
-      "date": "2026-06-05"
     }
   ],
   "eliminati": [
@@ -8207,6 +8129,14 @@
     {
       "id": "ot58thhw",
       "ts": 1780665658088
+    },
+    {
+      "id": "orsy4tu3",
+      "ts": 1780670111258
+    },
+    {
+      "id": "oisce2sn",
+      "ts": 1780670111258
     }
   ],
   "turni": {
