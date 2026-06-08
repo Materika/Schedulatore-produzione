@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-08T07:46:19.131Z",
+  "_salvato": "2026-06-08T07:46:21.424Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -294,8 +294,8 @@
       "dataConsegna": "2026-06-26",
       "qtaRichiesta": 1750,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-08",
+      "macId": "EXT1",
       "larghezza": 62,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -313,7 +313,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1780671057907.5513,
+      "seq": 21.751,
       "oreManual": null,
       "_open": true,
       "kghManual": null
