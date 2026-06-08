@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-08T10:19:48.274Z",
+  "_salvato": "2026-06-08T10:22:05.495Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -5929,7 +5929,7 @@
         "qtyLabel": "324 kg",
         "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
-      "classe": "none",
+      "classe": "tassativo",
       "chiuso": false,
       "seq": 0,
       "oreManual": null,
