@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-05T15:02:27.986Z",
+  "_salvato": "2026-06-08T06:23:04.275Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -40,7 +40,8 @@
       "chiuso": false,
       "seq": 1780671057906.8665,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osirecnj",
@@ -79,7 +80,8 @@
       "chiuso": false,
       "seq": 1780671057906.6816,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohjxq3tp",
@@ -118,7 +120,8 @@
       "chiuso": false,
       "seq": 1780671057906.0542,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohes4k9a",
@@ -156,7 +159,8 @@
       "chiuso": false,
       "seq": 1780671057907.5344,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o5mbl4bd",
@@ -194,7 +198,8 @@
       "chiuso": false,
       "seq": 1780671057907.834,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "olyroe93",
@@ -232,7 +237,8 @@
       "chiuso": false,
       "seq": 1780671057907.2815,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o70fwbz5",
@@ -270,7 +276,8 @@
       "chiuso": false,
       "seq": 1780671057907.3757,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o0oepd8w",
@@ -308,7 +315,8 @@
       "chiuso": false,
       "seq": 1780671057907.5513,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o43msjfz",
@@ -347,7 +355,8 @@
       "chiuso": false,
       "seq": 1780671057907.3003,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o0nmmmx8",
@@ -386,7 +395,8 @@
       "chiuso": false,
       "seq": 1780671057907.0127,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohzr2iuu",
@@ -425,7 +435,8 @@
       "chiuso": false,
       "seq": 1780671057907.7878,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oq5ogf40",
@@ -464,7 +475,8 @@
       "chiuso": false,
       "seq": 1780671057907.3225,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o6gl27v6",
@@ -503,7 +515,8 @@
       "chiuso": false,
       "seq": 1780671057907.941,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oeonzcmi",
@@ -542,7 +555,8 @@
       "chiuso": false,
       "seq": 1780671057907.84,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o7151bv2",
@@ -581,7 +595,8 @@
       "chiuso": false,
       "seq": 1780671057907.418,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "orwvlql0",
@@ -619,7 +634,8 @@
       "chiuso": false,
       "seq": 10,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oodlosws",
@@ -657,7 +673,8 @@
       "chiuso": false,
       "seq": 5.75,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oq2zt69g",
@@ -696,7 +713,8 @@
       "chiuso": false,
       "seq": 1780671057907.1226,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o1xy53tw",
@@ -735,7 +753,8 @@
       "chiuso": false,
       "seq": 1780671057908.2173,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ofglnzfm",
@@ -774,7 +793,8 @@
       "chiuso": false,
       "seq": 1780671057908.5576,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oblit9wi",
@@ -813,7 +833,8 @@
       "chiuso": false,
       "seq": 1780671057908.872,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oyk5ylsa",
@@ -852,7 +873,8 @@
       "chiuso": false,
       "seq": 1780671057908.2466,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ow4wopn1",
@@ -891,7 +913,8 @@
       "chiuso": false,
       "seq": 1780671057908.219,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o7ddkukz",
@@ -930,7 +953,8 @@
       "chiuso": false,
       "seq": 1780671057908.0955,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "omvxehlb",
@@ -969,7 +993,8 @@
       "chiuso": false,
       "seq": 1780671057908.4539,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o1lgr4sk",
@@ -1007,7 +1032,8 @@
       "chiuso": false,
       "seq": 7,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "odbnqvdk",
@@ -1046,7 +1072,8 @@
       "chiuso": false,
       "seq": 1780671057908.6995,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o9u2pywu",
@@ -1085,7 +1112,8 @@
       "chiuso": false,
       "seq": 1780671057908.6636,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ofovbi1u",
@@ -1124,7 +1152,8 @@
       "chiuso": false,
       "seq": 1780671057908.8967,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oerhab55",
@@ -1163,7 +1192,8 @@
       "chiuso": false,
       "seq": 1780671057908.6687,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "of1wd4je",
@@ -1202,7 +1232,8 @@
       "chiuso": false,
       "seq": 1780671057908.8293,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o2cqvjb9",
@@ -1241,7 +1272,8 @@
       "chiuso": false,
       "seq": 1780671057908.1162,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oabyy3pl",
@@ -1279,7 +1311,8 @@
       "chiuso": false,
       "seq": 4.75,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "owmgi0p4",
@@ -1317,7 +1350,8 @@
       "chiuso": false,
       "seq": 9.5,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osb7rx7t",
@@ -1355,7 +1389,8 @@
       "chiuso": false,
       "seq": 6,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o53b6c1x",
@@ -1394,7 +1429,8 @@
       "chiuso": false,
       "seq": 1780671057909.108,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o99wttkc",
@@ -1432,7 +1468,8 @@
       "chiuso": false,
       "seq": 11,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oa5aauxn",
@@ -1470,7 +1507,8 @@
       "chiuso": false,
       "seq": 8,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o50u54yq",
@@ -1509,7 +1547,8 @@
       "chiuso": false,
       "seq": 1780671057909.7822,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "omlpbulg",
@@ -1547,7 +1586,8 @@
       "chiuso": false,
       "seq": 9,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o147es7r",
@@ -1585,7 +1625,8 @@
       "chiuso": false,
       "seq": 1780671057909.7544,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "onazib8j",
@@ -1623,7 +1664,8 @@
       "chiuso": false,
       "seq": 1780671057909.1013,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ontrvy3c",
@@ -1662,7 +1704,8 @@
       "chiuso": false,
       "seq": 1780671057909.3542,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o9u3ybvh",
@@ -1701,7 +1744,8 @@
       "chiuso": false,
       "seq": 1780671057909.166,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohn0u2km",
@@ -1740,7 +1784,8 @@
       "chiuso": false,
       "seq": 1780671057909.2363,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o0furoyz",
@@ -1779,7 +1824,8 @@
       "chiuso": false,
       "seq": 1780671057909.69,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o7jpwoxj",
@@ -1817,7 +1863,8 @@
       "chiuso": false,
       "seq": 1780671057909.701,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o1yffsto",
@@ -1856,7 +1903,8 @@
       "chiuso": false,
       "seq": 1780671057909.416,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o4o07pms",
@@ -1895,7 +1943,8 @@
       "chiuso": false,
       "seq": 1780671057909.283,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o26uya68",
@@ -1934,7 +1983,8 @@
       "chiuso": false,
       "seq": 1780671057909.959,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oxijgydw",
@@ -1973,7 +2023,8 @@
       "chiuso": false,
       "seq": 1780671057909.436,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "orjnnf17",
@@ -2012,7 +2063,8 @@
       "chiuso": false,
       "seq": 1780671057910.006,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "onw2fbz0",
@@ -2050,7 +2102,8 @@
       "chiuso": false,
       "seq": 1780671057910.3357,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ov8mr580",
@@ -2089,7 +2142,8 @@
       "chiuso": false,
       "seq": 1780671057910.0112,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ouj85118",
@@ -2127,7 +2181,8 @@
       "chiuso": false,
       "seq": 11,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oh01c1ed",
@@ -2166,7 +2221,8 @@
       "chiuso": false,
       "seq": 1780671057910.3965,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o4y62vjb",
@@ -2205,7 +2261,8 @@
       "chiuso": false,
       "seq": 1780671057910.5144,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o70dvug9",
@@ -2244,7 +2301,8 @@
       "chiuso": false,
       "seq": 1780671057910.2976,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oqk5aswo",
@@ -2282,7 +2340,8 @@
       "chiuso": false,
       "seq": 1780671057910.6902,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "otyrh4iq",
@@ -2321,7 +2380,8 @@
       "chiuso": false,
       "seq": 1780671057910.8433,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ob7ml4yx",
@@ -2360,7 +2420,8 @@
       "chiuso": false,
       "seq": 1780671057910.1772,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o5g1jc1y",
@@ -2399,7 +2460,8 @@
       "chiuso": false,
       "seq": 1780671057910.7686,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o94ziqfl",
@@ -2435,9 +2497,10 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 4.75,
+      "seq": 5.751,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o27hwmla",
@@ -2475,7 +2538,8 @@
       "chiuso": false,
       "seq": 4.751,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o6r3ha60",
@@ -2514,7 +2578,8 @@
       "chiuso": false,
       "seq": 1780671057910.2415,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oukwr01o",
@@ -2553,7 +2618,8 @@
       "seq": 3.75,
       "oreManual": null,
       "_open": true,
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": "2026-06-05",
+      "kghManual": null
     },
     {
       "id": "od5w58cb",
@@ -2592,7 +2658,8 @@
       "chiuso": false,
       "seq": 1780671057910.5688,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ok9l7ofv",
@@ -2631,7 +2698,8 @@
       "chiuso": false,
       "seq": 1780671057910.9355,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oj12iek9",
@@ -2670,7 +2738,8 @@
       "chiuso": false,
       "seq": 1780671057910.628,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "or3r5v43",
@@ -2708,7 +2777,8 @@
       "chiuso": false,
       "seq": 1780671057911.8467,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohdgh3vy",
@@ -2746,7 +2816,8 @@
       "chiuso": false,
       "seq": 1780671057911.6042,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ogna8vst",
@@ -2784,7 +2855,8 @@
       "chiuso": false,
       "seq": 1780671057911.6697,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ooqe4wiu",
@@ -2822,7 +2894,8 @@
       "chiuso": false,
       "seq": 1780671057911.2573,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "olgyxcqw",
@@ -2861,7 +2934,8 @@
       "chiuso": false,
       "seq": 1780671057911.7876,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ol8vkn6h",
@@ -2900,7 +2974,8 @@
       "chiuso": false,
       "seq": 1780671057911.692,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o404gacw",
@@ -2939,7 +3014,8 @@
       "chiuso": false,
       "seq": 1780671057911.4958,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oa6n9hzs",
@@ -2978,7 +3054,8 @@
       "chiuso": false,
       "seq": 1780671057911.9504,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oqpdvzl9",
@@ -3017,7 +3094,8 @@
       "chiuso": false,
       "seq": 1780671057911.7454,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oilh476x",
@@ -3056,7 +3134,8 @@
       "chiuso": false,
       "seq": 1780671057911.883,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ocq7alb3",
@@ -3095,7 +3174,8 @@
       "chiuso": false,
       "seq": 1780671057911.045,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ok17usmt",
@@ -3133,7 +3213,8 @@
       "chiuso": false,
       "seq": 1780671057911.8765,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o7f8fmg2",
@@ -3171,7 +3252,8 @@
       "chiuso": false,
       "seq": 1780671057911.0493,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "of9i5cs2",
@@ -3210,7 +3292,8 @@
       "chiuso": false,
       "seq": 1780671057911.5276,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "og6t3112",
@@ -3249,7 +3332,8 @@
       "chiuso": false,
       "seq": 1780671057912,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oxwvyzq5",
@@ -3287,7 +3371,8 @@
       "chiuso": false,
       "seq": 1780671057911.9822,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oypstwca",
@@ -3326,7 +3411,8 @@
       "chiuso": false,
       "seq": 1780671057911.8179,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o0mat9ba",
@@ -3365,7 +3451,8 @@
       "chiuso": false,
       "seq": 1780671057911.5627,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o470ib64",
@@ -3404,7 +3491,8 @@
       "chiuso": false,
       "seq": 1780671057911.1597,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "otjqjzs9",
@@ -3443,7 +3531,8 @@
       "chiuso": false,
       "seq": 1780671057911.1414,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osgokbrc",
@@ -3482,7 +3571,8 @@
       "chiuso": false,
       "seq": 1780671057911.9536,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "or07g10w",
@@ -3521,7 +3611,8 @@
       "chiuso": false,
       "seq": 1780671057911.4207,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o1q59zfl",
@@ -3559,7 +3650,8 @@
       "chiuso": false,
       "seq": 1780671057911.6353,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o661i7hm",
@@ -3597,7 +3689,8 @@
       "chiuso": false,
       "seq": 1780671057911.2317,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oj0hop62",
@@ -3636,7 +3729,8 @@
       "chiuso": false,
       "seq": 1780671057912.2979,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "odg97ua4",
@@ -3675,7 +3769,8 @@
       "chiuso": false,
       "seq": 1780671057912.9998,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oof6yquc",
@@ -3714,7 +3809,8 @@
       "chiuso": false,
       "seq": 1780671057912.521,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oqjeddvp",
@@ -3753,7 +3849,8 @@
       "chiuso": false,
       "seq": 1780671057912.8582,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "odcc7imi",
@@ -3792,7 +3889,8 @@
       "chiuso": false,
       "seq": 1780671057912.8406,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ob3vxfhf",
@@ -3831,7 +3929,8 @@
       "chiuso": false,
       "seq": 1780671057912.7573,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ox08obla",
@@ -3870,7 +3969,8 @@
       "chiuso": false,
       "seq": 1780671057912.5984,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o0aiqahe",
@@ -3909,7 +4009,8 @@
       "chiuso": false,
       "seq": 1780671057912.973,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oige8y1m",
@@ -3948,7 +4049,8 @@
       "chiuso": false,
       "seq": 1780671057912.864,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "og07e9np",
@@ -3987,7 +4089,8 @@
       "chiuso": false,
       "seq": 1780671057912.8823,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o51sfhio",
@@ -4026,7 +4129,8 @@
       "chiuso": false,
       "seq": 1780671057912.8848,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oyn42yxf",
@@ -4065,7 +4169,8 @@
       "chiuso": false,
       "seq": 1780671057912.1572,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ouqntvdk",
@@ -4103,7 +4208,8 @@
       "chiuso": false,
       "seq": 1780671057912.551,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ov1mmpsp",
@@ -4142,7 +4248,8 @@
       "chiuso": false,
       "seq": 1780671057912.9658,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ovfc0102",
@@ -4181,7 +4288,8 @@
       "chiuso": false,
       "seq": 1780671057912.692,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ofrfthuc",
@@ -4220,7 +4328,8 @@
       "chiuso": false,
       "seq": 1780671057912.7886,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ohwofscv",
@@ -4259,7 +4368,8 @@
       "chiuso": false,
       "seq": 1780671057912.9827,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oaxok6uu",
@@ -4298,7 +4408,8 @@
       "chiuso": false,
       "seq": 1780671057912.014,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ozvpllc1",
@@ -4337,7 +4448,8 @@
       "chiuso": false,
       "seq": 1780671057912.8733,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "obk6j8kw",
@@ -4376,7 +4488,8 @@
       "chiuso": false,
       "seq": 1780671057912.5737,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osan8out",
@@ -4415,7 +4528,8 @@
       "chiuso": false,
       "seq": 1780671057912.2449,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ofkhb67l",
@@ -4454,7 +4568,8 @@
       "chiuso": false,
       "seq": 1780671057912.293,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "odjt9v3m",
@@ -4493,7 +4608,8 @@
       "chiuso": false,
       "seq": 1780671057912.8237,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oi8n1t2c",
@@ -4532,7 +4648,8 @@
       "chiuso": false,
       "seq": 1780671057912.9504,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "obmtrsyi",
@@ -4571,7 +4688,8 @@
       "chiuso": false,
       "seq": 1780671057913.3745,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o320geka",
@@ -4610,7 +4728,8 @@
       "chiuso": false,
       "seq": 1780671057913.7466,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o6dpe25p",
@@ -4649,7 +4768,8 @@
       "chiuso": false,
       "seq": 1780671057913.5532,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ow7x3cok",
@@ -4688,7 +4808,8 @@
       "chiuso": false,
       "seq": 1780671057913.1055,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oeqkg2bg",
@@ -4727,7 +4848,8 @@
       "chiuso": false,
       "seq": 1780671057913.398,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oea3ls8m",
@@ -4766,7 +4888,8 @@
       "chiuso": false,
       "seq": 1780671057913.8982,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o8meqh8s",
@@ -4805,7 +4928,8 @@
       "chiuso": false,
       "seq": 1780671057913.6667,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osjx9nyk",
@@ -4844,7 +4968,8 @@
       "chiuso": false,
       "seq": 1780671057913.5903,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o6nkldde",
@@ -4883,7 +5008,8 @@
       "chiuso": false,
       "seq": 1780671057913.5745,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "om08huio",
@@ -4922,7 +5048,8 @@
       "chiuso": false,
       "seq": 1780671057913.7166,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o5zy1eh5",
@@ -4961,7 +5088,8 @@
       "chiuso": false,
       "seq": 1780671057913.0422,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o3vatbfk",
@@ -5000,7 +5128,8 @@
       "chiuso": false,
       "seq": 1780671057913.4849,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ov86h7au",
@@ -5039,7 +5168,8 @@
       "chiuso": false,
       "seq": 1780671057913.926,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "obtttbtk",
@@ -5078,7 +5208,8 @@
       "chiuso": false,
       "seq": 1780671057913.5557,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ootb2hog",
@@ -5117,7 +5248,8 @@
       "chiuso": false,
       "seq": 1780671057913.2373,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "ovup1lbm",
@@ -5156,7 +5288,8 @@
       "chiuso": false,
       "seq": 1780671057913.121,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "obkh9bbh",
@@ -5195,7 +5328,8 @@
       "chiuso": false,
       "seq": 1780671057913.2605,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o9uvh0hm",
@@ -5234,7 +5368,8 @@
       "chiuso": false,
       "seq": 1780671057913.938,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "odlzi8z9",
@@ -5273,7 +5408,8 @@
       "chiuso": false,
       "seq": 1780671057913.3833,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o5421dz3",
@@ -5312,7 +5448,8 @@
       "chiuso": false,
       "seq": 1780671057913.2563,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "oz0xp3vn",
@@ -5351,7 +5488,8 @@
       "chiuso": false,
       "seq": 1780671057913.4348,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o9m9eib8",
@@ -5390,7 +5528,8 @@
       "chiuso": false,
       "seq": 1780671057914.9666,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "osrb8orq",
@@ -5429,7 +5568,8 @@
       "chiuso": false,
       "seq": 1780671057914.8892,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "onvs7dq8",
@@ -5468,7 +5608,8 @@
       "chiuso": false,
       "seq": 1780671057914.0044,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o9y4kzqn",
@@ -5507,7 +5648,8 @@
       "chiuso": false,
       "seq": 1780671057914.762,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o18a0agz",
@@ -5546,7 +5688,8 @@
       "chiuso": false,
       "seq": 1780671057914.9612,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "opjj2572",
@@ -5585,7 +5728,8 @@
       "chiuso": false,
       "seq": 1780671057914.0366,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "omsma29p",
@@ -5623,7 +5767,8 @@
       "oraInizio": null,
       "oraFine": null,
       "dataConsegna": null,
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": "2026-06-05",
+      "kghManual": null
     },
     {
       "id": "onv1i4jm",
@@ -5664,7 +5809,8 @@
       "seq": 3.25,
       "macId": "EXT1",
       "date": "2026-06-05",
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": "2026-06-05",
+      "kghManual": null
     },
     {
       "id": "o914o6ak",
@@ -5705,7 +5851,8 @@
       "seq": 3.5,
       "macId": "EXT1",
       "date": "2026-06-05",
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": "2026-06-05",
+      "kghManual": null
     },
     {
       "id": "oqr6mymd",
@@ -5746,7 +5893,8 @@
       "seq": 5.25,
       "macId": "EXT1",
       "date": "2026-06-05",
-      "dataChiusura": "2026-06-05"
+      "dataChiusura": "2026-06-05",
+      "kghManual": null
     },
     {
       "id": "oxdoa9vv",
@@ -5782,9 +5930,10 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 4.75,
+      "seq": 6.751,
       "oreManual": null,
-      "_open": true
+      "_open": true,
+      "kghManual": null
     },
     {
       "id": "o2nn3ijk",
@@ -5824,7 +5973,8 @@
       },
       "seq": 4.25,
       "macId": "EXT1",
-      "date": "2026-06-05"
+      "date": "2026-06-05",
+      "kghManual": null
     }
   ],
   "eliminati": [
