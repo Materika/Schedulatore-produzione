@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-08T09:44:26.722Z",
+  "_salvato": "2026-06-08T09:45:56.127Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -148,12 +148,12 @@
       "kg": 216,
       "scarto": 0,
       "calc": {
-        "ore": 3.085714285714286,
-        "kgh": 70,
+        "ore": 3.176470588235294,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "216 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -189,12 +189,12 @@
       "kg": 108,
       "scarto": 0,
       "calc": {
-        "ore": 1.542857142857143,
-        "kgh": 70,
+        "ore": 1.588235294117647,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "108 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -230,12 +230,12 @@
       "kg": 1136,
       "scarto": 0,
       "calc": {
-        "ore": 16.228571428571428,
-        "kgh": 70,
+        "ore": 16.705882352941178,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "1'136 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -746,12 +746,12 @@
       "kg": 168,
       "scarto": 0,
       "calc": {
-        "ore": 2.5074626865671643,
-        "kgh": 67,
+        "ore": 2.5454545454545454,
+        "kgh": 66,
         "fonte": "interno",
         "tubolare": 87,
         "qtyLabel": "168 kg",
-        "detail": "Tubolare 87 cm · 35 µ · 67 kg/h"
+        "detail": "Tubolare 87 cm · 35 µ · 66 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -1105,12 +1105,12 @@
       "kg": 400,
       "scarto": 0,
       "calc": {
-        "ore": 8,
-        "kgh": 50,
+        "ore": 7.2727272727272725,
+        "kgh": 55,
         "fonte": "interno",
         "tubolare": 50,
         "qtyLabel": "400 kg",
-        "detail": "Tubolare 50 cm · 100 µ · 50 kg/h"
+        "detail": "Tubolare 50 cm · 100 µ · 55 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -1384,12 +1384,12 @@
       "kg": 220,
       "scarto": 0,
       "calc": {
-        "ore": 3.142857142857143,
-        "kgh": 70,
+        "ore": 3.235294117647059,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "220 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -1580,12 +1580,12 @@
       "kg": 500,
       "scarto": 0,
       "calc": {
-        "ore": 6.944444444444445,
-        "kgh": 72,
+        "ore": 7.042253521126761,
+        "kgh": 71,
         "fonte": "interno",
         "tubolare": 80,
         "qtyLabel": "500 kg",
-        "detail": "Tubolare 80 cm · 50 µ · 72 kg/h"
+        "detail": "Tubolare 80 cm · 50 µ · 71 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -2175,12 +2175,12 @@
       "kg": 491,
       "scarto": 0,
       "calc": {
-        "ore": 6.726027397260274,
-        "kgh": 73,
+        "ore": 6.819444444444445,
+        "kgh": 72,
         "fonte": "interno",
         "tubolare": 80,
         "qtyLabel": "491 kg",
-        "detail": "Tubolare 80 cm · 55 µ · 73 kg/h"
+        "detail": "Tubolare 80 cm · 55 µ · 72 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -2811,12 +2811,12 @@
       "kg": 100.44,
       "scarto": 0,
       "calc": {
-        "ore": 1.4348571428571428,
-        "kgh": 70,
+        "ore": 1.4770588235294118,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 72,
         "qtyLabel": "100 kg",
-        "detail": "Tubolare 72 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 72 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -3247,12 +3247,12 @@
       "kg": 298.7,
       "scarto": 0,
       "calc": {
-        "ore": 4.207042253521126,
-        "kgh": 71,
+        "ore": 4.267142857142857,
+        "kgh": 70,
         "fonte": "interno",
         "tubolare": 85,
         "qtyLabel": "299 kg",
-        "detail": "Tubolare 85 cm · 45 µ · 71 kg/h"
+        "detail": "Tubolare 85 cm · 45 µ · 70 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -3286,12 +3286,12 @@
       "kg": 1740,
       "scarto": 0,
       "calc": {
-        "ore": 25.217391304347824,
-        "kgh": 69,
+        "ore": 25.58823529411765,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 79,
         "qtyLabel": "1'740 kg",
-        "detail": "Tubolare 79 cm · 45 µ · 69 kg/h"
+        "detail": "Tubolare 79 cm · 45 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -5841,11 +5841,11 @@
       "scarto": 0,
       "calc": {
         "ore": 0,
-        "kgh": 70,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "0 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -5881,12 +5881,12 @@
       "kg": 324,
       "scarto": 0,
       "calc": {
-        "ore": 4.628571428571429,
-        "kgh": 70,
+        "ore": 4.764705882352941,
+        "kgh": 68,
         "fonte": "interno",
         "tubolare": 70,
         "qtyLabel": "324 kg",
-        "detail": "Tubolare 70 cm · 50 µ · 70 kg/h"
+        "detail": "Tubolare 70 cm · 50 µ · 68 kg/h"
       },
       "classe": "none",
       "chiuso": false,
@@ -8362,27 +8362,27 @@
         "0": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "1": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "2": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "3": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "4": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "5": {
           "attivo": false,
@@ -8396,27 +8396,27 @@
         "0": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "1": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "2": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "3": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "4": {
           "attivo": true,
           "inizio": "07:30",
-          "fine": "15:00"
+          "fine": "17:30"
         },
         "5": {
           "attivo": false,
@@ -8432,10 +8432,16 @@
       "macId": "MOBERT1",
       "date": "all",
       "nota": "pausa pranzo ale"
+    },
+    {
+      "ore": 2,
+      "macId": "MOBERT2",
+      "date": "all",
+      "nota": "pausa pranzo ale"
     }
   ],
   "includiSabato": false,
-  "riboKgh": 120,
+  "riboKgh": 70,
   "bobEstrusoreMin": 45,
   "bobEstrusoreMax": 105,
   "bobProdTable": [
@@ -8452,13 +8458,13 @@
       46,
       55,
       60,
-      70,
+      68,
       80
     ],
     [
       50,
-      50,
-      64,
+      55,
+      68,
       68,
       80,
       90
