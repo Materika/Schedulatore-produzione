@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-08T09:44:14.301Z",
+  "_salvato": "2026-06-08T09:44:26.722Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -8426,7 +8426,14 @@
       }
     }
   },
-  "pause": [],
+  "pause": [
+    {
+      "ore": 2,
+      "macId": "MOBERT1",
+      "date": "all",
+      "nota": "pausa pranzo ale"
+    }
+  ],
   "includiSabato": false,
   "riboKgh": 120,
   "bobEstrusoreMin": 45,
