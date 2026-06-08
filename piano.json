@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-08T08:57:16.401Z",
+  "_salvato": "2026-06-08T08:57:29.119Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -159,7 +159,7 @@
       "chiuso": false,
       "seq": 0,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null
@@ -200,7 +200,7 @@
       "chiuso": false,
       "seq": 7,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null
@@ -1354,7 +1354,7 @@
       "chiuso": false,
       "seq": 8,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": 40
     },
     {
@@ -1393,7 +1393,7 @@
       "chiuso": false,
       "seq": 4,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null
     },
     {
@@ -1629,7 +1629,7 @@
       "chiuso": false,
       "seq": 3,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null
     },
     {
@@ -2542,7 +2542,7 @@
       "chiuso": false,
       "seq": 2,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null
     },
     {
@@ -5810,7 +5810,7 @@
       "chiuso": false,
       "seq": 6,
       "oreManual": null,
-      "_open": true,
+      "_open": false,
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null
