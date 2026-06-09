@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T14:24:50.370Z",
+  "_salvato": "2026-06-09T14:27:38.911Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -8399,22 +8399,22 @@
         },
         "1": {
           "attivo": true,
-          "inizio": "06:00",
+          "inizio": "00:00",
           "fine": "24:00"
         },
         "2": {
           "attivo": true,
-          "inizio": "06:00",
+          "inizio": "00:00",
           "fine": "24:00"
         },
         "3": {
           "attivo": true,
-          "inizio": "06:00",
+          "inizio": "00:00",
           "fine": "24:00"
         },
         "4": {
           "attivo": true,
-          "inizio": "06:00",
+          "inizio": "00:00",
           "fine": "24:00"
         },
         "5": {
