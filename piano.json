@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T14:02:18.907Z",
+  "_salvato": "2026-06-09T14:03:32.855Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -5938,11 +5938,12 @@
         "detail": "Tubolare 25 cm · 30 µ · 38 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 2.001,
       "oreManual": null,
       "_open": true,
-      "kghManual": 50
+      "kghManual": 50,
+      "dataChiusura": "2026-06-09"
     },
     {
       "id": "o8sbyr2l",
