@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T14:24:34.581Z",
+  "_salvato": "2026-06-09T14:24:50.370Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -6097,7 +6097,10 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "kghManual": null
+      "kghManual": null,
+      "oraInizio": null,
+      "oraFine": null,
+      "dataConsegna": null
     }
   ],
   "eliminati": [
