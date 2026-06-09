@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T14:44:18.408Z",
+  "_salvato": "2026-06-09T14:44:26.677Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -718,7 +718,7 @@
       "chiuso": false,
       "seq": 1,
       "oreManual": null,
-      "kghManual": 54,
+      "kghManual": 56,
       "_open": true
     },
     {
