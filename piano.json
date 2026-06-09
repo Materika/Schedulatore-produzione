@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T14:30:19.510Z",
+  "_salvato": "2026-06-09T14:30:28.750Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -774,8 +774,8 @@
       "dataConsegna": "2026-06-26",
       "qtaRichiesta": 2060,
       "qtaProdotta": 0,
-      "date": "2026-06-09",
-      "macId": "EXT1",
+      "date": null,
+      "macId": null,
       "larghezza": 65,
       "spessore": 50,
       "pesoSpecifico": 0.92,
