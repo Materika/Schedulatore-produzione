@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-09T06:16:55.095Z",
+  "_salvato": "2026-06-09T14:02:18.907Z",
   "ordini": [
     {
       "id": "o7ulupsk",
@@ -1397,46 +1397,6 @@
       "oreManual": null,
       "_open": false,
       "kghManual": 40
-    },
-    {
-      "id": "owmgi0p4",
-      "tipo": "bobine",
-      "cliente": "IRWAM S.N.",
-      "articolo": "TUBOLARE PE-LD cm. 70 sp.25 my / NO MARCHIETTI",
-      "commessa": "OC26.0837-10",
-      "commessaDesc": "IRWAM S.N.  Rich: 14/05/2026  Cr: 19/05/2026  Nr: 10",
-      "codiceOP": "",
-      "rigaOP": "",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-12",
-      "qtaRichiesta": 100,
-      "qtaProdotta": 0,
-      "date": "2026-06-08",
-      "macId": "EXT1",
-      "larghezza": 70,
-      "spessore": 25,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 100,
-      "scarto": 0,
-      "calc": {
-        "ore": 1.8181818181818181,
-        "kgh": 55,
-        "fonte": "interno",
-        "tubolare": 70,
-        "qtyLabel": "100 kg",
-        "detail": "Tubolare 70 cm · 25 µ · 55 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 4,
-      "oreManual": null,
-      "_open": false,
-      "kghManual": null,
-      "dataChiusura": "2026-06-08"
     },
     {
       "id": "osb7rx7t",
@@ -8615,6 +8575,10 @@
     {
       "id": "o661i7hm",
       "ts": 1780932756701
+    },
+    {
+      "id": "owmgi0p4",
+      "ts": 1781013736581
     }
   ],
   "turni": {
