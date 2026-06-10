@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:10:57.032Z",
+  "_salvato": "2026-06-10T13:11:23.898Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -935,7 +935,7 @@
       "stato": "",
       "dataOrdine": null,
       "dataConsegna": "2026-06-26",
-      "qtaRichiesta": 1677,
+      "qtaRichiesta": 1536,
       "qtaProdotta": 240,
       "date": "2026-06-10",
       "macId": "EXT1",
@@ -944,23 +944,25 @@
       "pesoSpecifico": 0.92,
       "forma": "tubolare",
       "piste": 1,
-      "kg": 1677,
+      "kg": 1536,
       "scarto": 0,
       "calc": {
-        "ore": 26.61904761904762,
+        "ore": 24.38095238095238,
         "kgh": 63,
         "fonte": "interno",
         "tubolare": 65,
-        "qtyLabel": "1'677 kg",
+        "qtyLabel": "1'536 kg",
         "detail": "Tubolare 65 cm · 50 µ · 63 kg/h"
       },
       "classe": "none",
       "chiuso": false,
       "seq": 3.501,
-      "oreManual": null,
+      "oreManual": 31.06,
       "kghManual": 54,
       "_open": true,
-      "dataChiusura": null
+      "dataChiusura": null,
+      "oraInizio": null,
+      "oraFine": null
     },
     {
       "id": "ol7uprsf",
