@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:37:30.699Z",
+  "_salvato": "2026-06-10T13:52:35.644Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -916,7 +916,7 @@
       "seq": 3.25025,
       "oreManual": null,
       "kghManual": 54,
-      "_open": false,
+      "_open": true,
       "dataChiusura": null
     },
     {
@@ -2117,6 +2117,45 @@
       "_open": true
     },
     {
+      "id": "oeqc65wq",
+      "tipo": "ribobina",
+      "cliente": "FOLLADOR S",
+      "articolo": "FOGLI PE-LD cm. 160x180 sp.50 my / PRET. IN BOBINA/ BOBINA 80CM",
+      "commessa": "OC26.0841-10",
+      "commessaDesc": "FOLLADOR S  Rich: 20/05/2026  Cr: 20/05/2026  Nr: 10",
+      "codiceOP": " [RIBO]",
+      "rigaOP": "-R",
+      "nrCli": "",
+      "stato": "",
+      "dataOrdine": null,
+      "dataConsegna": "2026-06-19",
+      "qtaRichiesta": 500,
+      "qtaProdotta": 0,
+      "date": null,
+      "macId": null,
+      "larghezza": 160,
+      "spessore": 50,
+      "pesoSpecifico": 0.92,
+      "forma": "foglia",
+      "piste": 1,
+      "kg": 500,
+      "scarto": 0,
+      "calc": {
+        "ore": 7.142857142857143,
+        "kgh": 70,
+        "fonte": "interno",
+        "qtyLabel": "500 kg",
+        "detail": "Ribobinatura · 70 kg/h"
+      },
+      "classe": "none",
+      "chiuso": false,
+      "seq": 1781099553121.9895,
+      "oreManual": null,
+      "kghManual": null,
+      "_open": true,
+      "_tipoManuale": true
+    },
+    {
       "id": "ocyviyir",
       "tipo": "bobine",
       "cliente": "FOLLADOR S",
@@ -2153,7 +2192,7 @@
       "seq": 3.5004999999999997,
       "oreManual": null,
       "kghManual": 65,
-      "_open": false
+      "_open": true
     },
     {
       "id": "o47tynjs",
