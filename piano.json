@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:21:53.276Z",
+  "_salvato": "2026-06-10T13:23:30.982Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -36,7 +36,7 @@
       "seq": 6.502,
       "oreManual": null,
       "kghManual": 65,
-      "_open": true,
+      "_open": false,
       "oraInizio": null,
       "oraFine": null
     },
@@ -197,7 +197,7 @@
       "seq": 8.501999999999999,
       "oreManual": null,
       "kghManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "oa7m5uzu",
@@ -916,7 +916,7 @@
       "seq": 3.25025,
       "oreManual": null,
       "kghManual": 54,
-      "_open": true,
+      "_open": false,
       "dataChiusura": null
     },
     {
@@ -932,7 +932,7 @@
       "stato": "",
       "dataOrdine": null,
       "dataConsegna": "2026-06-26",
-      "qtaRichiesta": 262,
+      "qtaRichiesta": 270,
       "qtaProdotta": 240,
       "date": "2026-06-10",
       "macId": "EXT1",
@@ -941,22 +941,22 @@
       "pesoSpecifico": 0.92,
       "forma": "tubolare",
       "piste": 1,
-      "kg": 262,
+      "kg": 270,
       "scarto": 0,
       "calc": {
-        "ore": 4.158730158730159,
+        "ore": 4.285714285714286,
         "kgh": 63,
         "fonte": "interno",
         "tubolare": 65,
-        "qtyLabel": "262 kg",
+        "qtyLabel": "270 kg",
         "detail": "Tubolare 65 cm · 50 µ · 63 kg/h"
       },
       "classe": "none",
       "chiuso": false,
       "seq": 3.501,
       "oreManual": null,
-      "kghManual": 54,
-      "_open": false,
+      "kghManual": 55,
+      "_open": true,
       "dataChiusura": null,
       "oraInizio": null,
       "oraFine": null
@@ -998,7 +998,7 @@
       "seq": 3.502,
       "oreManual": null,
       "kghManual": 54,
-      "_open": true,
+      "_open": false,
       "dataChiusura": null,
       "oraInizio": null,
       "oraFine": null
@@ -1717,7 +1717,7 @@
       "seq": 9.502499999999998,
       "oreManual": null,
       "kghManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "oysq73zf",
@@ -2036,7 +2036,7 @@
       "seq": 7.502,
       "oreManual": null,
       "kghManual": 55,
-      "_open": true
+      "_open": false
     },
     {
       "id": "of42yu5u",
@@ -2114,7 +2114,7 @@
       "seq": 3.5004999999999997,
       "oreManual": null,
       "kghManual": 65,
-      "_open": true
+      "_open": false
     },
     {
       "id": "o47tynjs",
@@ -2153,7 +2153,7 @@
       "seq": 4.502,
       "oreManual": null,
       "kghManual": 45,
-      "_open": true
+      "_open": false
     },
     {
       "id": "odi2hc50",
@@ -2192,7 +2192,7 @@
       "seq": 5.502,
       "oreManual": null,
       "kghManual": null,
-      "_open": true
+      "_open": false
     },
     {
       "id": "o4pkls96",
@@ -4258,7 +4258,7 @@
       "seq": 3,
       "oreManual": null,
       "kghManual": 35,
-      "_open": true,
+      "_open": false,
       "oraInizio": null,
       "oraFine": null
     },
@@ -4299,7 +4299,7 @@
       "seq": 1.5,
       "oreManual": null,
       "kghManual": 33,
-      "_open": true
+      "_open": false
     },
     {
       "id": "ou5buhsw",
@@ -6255,7 +6255,7 @@
       "seq": 1,
       "oreManual": null,
       "kghManual": 54,
-      "_open": true
+      "_open": false
     },
     {
       "id": "opcy9ika",
@@ -6294,7 +6294,7 @@
       "seq": 2,
       "oreManual": null,
       "kghManual": 24,
-      "_open": true
+      "_open": false
     },
     {
       "id": "o9avqmzo",
