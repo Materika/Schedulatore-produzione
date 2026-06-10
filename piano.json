@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:52:39.044Z",
+  "_salvato": "2026-06-10T13:57:57.740Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -916,7 +916,7 @@
       "seq": 3.25025,
       "oreManual": null,
       "kghManual": 54,
-      "_open": true,
+      "_open": false,
       "dataChiusura": null
     },
     {
@@ -1078,7 +1078,7 @@
       "seq": 1,
       "oreManual": null,
       "kghManual": 110,
-      "_open": true,
+      "_open": false,
       "_tipoManuale": true
     },
     {
@@ -2117,45 +2117,6 @@
       "_open": true
     },
     {
-      "id": "oeqc65wq",
-      "tipo": "ribobina",
-      "cliente": "FOLLADOR S",
-      "articolo": "FOGLI PE-LD cm. 160x180 sp.50 my / PRET. IN BOBINA/ BOBINA 80CM",
-      "commessa": "OC26.0841-10",
-      "commessaDesc": "FOLLADOR S  Rich: 20/05/2026  Cr: 20/05/2026  Nr: 10",
-      "codiceOP": " [RIBO]",
-      "rigaOP": "-R",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-19",
-      "qtaRichiesta": 500,
-      "qtaProdotta": 0,
-      "date": "2026-06-10",
-      "macId": "RIBO1",
-      "larghezza": 160,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "foglia",
-      "piste": 1,
-      "kg": 500,
-      "scarto": 0,
-      "calc": {
-        "ore": 7.142857142857143,
-        "kgh": 70,
-        "fonte": "interno",
-        "qtyLabel": "500 kg",
-        "detail": "Ribobinatura · 70 kg/h"
-      },
-      "classe": "none",
-      "chiuso": false,
-      "seq": 7,
-      "oreManual": null,
-      "kghManual": null,
-      "_open": true,
-      "_tipoManuale": true
-    },
-    {
       "id": "ocyviyir",
       "tipo": "bobine",
       "cliente": "FOLLADOR S",
@@ -2192,7 +2153,7 @@
       "seq": 3.5004999999999997,
       "oreManual": null,
       "kghManual": 65,
-      "_open": true
+      "_open": false
     },
     {
       "id": "o47tynjs",
@@ -3083,8 +3044,8 @@
       "dataConsegna": "2026-06-05",
       "qtaRichiesta": 1000,
       "qtaProdotta": 172,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-10",
+      "macId": "EXT1",
       "larghezza": 25,
       "spessore": 30,
       "pesoSpecifico": 0.92,
@@ -3102,7 +3063,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1781015353783.24,
+      "seq": 10.502999999999998,
       "oreManual": null,
       "kghManual": null,
       "_open": true
@@ -6605,7 +6566,7 @@
       "seq": 2,
       "oreManual": null,
       "kghManual": 56,
-      "_open": true,
+      "_open": false,
       "_tipoManuale": true
     },
     {
