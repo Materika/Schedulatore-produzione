@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:02:07.204Z",
+  "_salvato": "2026-06-10T13:02:16.919Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -6251,44 +6251,6 @@
       "_open": true
     },
     {
-      "id": "olbq4qt6",
-      "tipo": "bobine",
-      "cliente": "⏱ SLOT",
-      "articolo": "Segnaposto / fermo",
-      "codiceOP": "",
-      "rigaOP": "",
-      "stato": "",
-      "classe": "none",
-      "chiuso": false,
-      "_tipoManuale": true,
-      "_segnaposto": true,
-      "larghezza": 0,
-      "spessore": 0,
-      "forma": "tubolare",
-      "piste": 1,
-      "pesoSpecifico": 0.92,
-      "kg": 0,
-      "scarto": 0,
-      "qtaRichiesta": 0,
-      "macId": "EXT1",
-      "date": "2026-06-09",
-      "oreManual": 10,
-      "_open": true,
-      "seq": -1,
-      "calc": {
-        "ore": 0,
-        "kgh": 38,
-        "fonte": "esterno",
-        "tubolare": 0,
-        "qtyLabel": "0 kg",
-        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
-      },
-      "kghManual": null,
-      "oraInizio": null,
-      "oraFine": null,
-      "dataConsegna": null
-    },
-    {
       "id": "oae7esry",
       "tipo": "bobine",
       "cliente": "DIELLE SRL",
@@ -9283,6 +9245,10 @@
     {
       "id": "odrumtyn",
       "ts": 1781016947377
+    },
+    {
+      "id": "olbq4qt6",
+      "ts": 1781096534654
     }
   ],
   "turni": {
