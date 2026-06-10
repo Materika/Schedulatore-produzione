@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:16:33.376Z",
+  "_salvato": "2026-06-10T13:16:41.360Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -13,8 +13,8 @@
       "stato": "N",
       "dataConsegna": "2026-06-26",
       "classe": "none",
-      "macId": null,
-      "date": null,
+      "macId": "EXT1",
+      "date": "2026-06-10",
       "chiuso": false,
       "_tipoManuale": true,
       "qtaRichiesta": 600,
@@ -33,7 +33,7 @@
         "qtyLabel": "600 kg",
         "detail": "Tubolare 80 cm · 40 µ · 66 kg/h"
       },
-      "seq": 1781097391159.0889,
+      "seq": 6.502,
       "oreManual": null,
       "kghManual": null,
       "_open": true
