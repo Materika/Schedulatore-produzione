@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:12:20.532Z",
+  "_salvato": "2026-06-10T13:13:54.408Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -1001,7 +1001,7 @@
       "seq": 3.502,
       "oreManual": null,
       "kghManual": 54,
-      "_open": false,
+      "_open": true,
       "dataChiusura": null,
       "oraInizio": null,
       "oraFine": null
@@ -2134,8 +2134,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 98.8,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-10",
+      "macId": "EXT1",
       "larghezza": 45,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -2153,7 +2153,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1781015353780.3254,
+      "seq": 4.502,
       "oreManual": null,
       "kghManual": null,
       "_open": true
@@ -2173,8 +2173,8 @@
       "dataConsegna": "2026-06-12",
       "qtaRichiesta": 309.2,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-10",
+      "macId": "EXT1",
       "larghezza": 50,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -2192,7 +2192,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1781015353781.9602,
+      "seq": 5.502,
       "oreManual": null,
       "kghManual": null,
       "_open": true
