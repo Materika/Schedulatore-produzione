@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:05:27.593Z",
+  "_salvato": "2026-06-10T13:06:10.423Z",
   "ordini": [
     {
       "id": "ogzu0x3g",
@@ -4212,47 +4212,6 @@
       "oreManual": null,
       "kghManual": 33,
       "_open": true
-    },
-    {
-      "id": "ovbrhla9",
-      "tipo": "bobine",
-      "cliente": "KIT 3 S.R.",
-      "articolo": "FOGLIA PE-LD cm. 40 sp.80 my / MICROFORATA/ BOBINA 25KG",
-      "commessa": "OC26.0628-10",
-      "commessaDesc": "KIT 3 S.R.  Rich: 05/06/2026  Cr: 13/04/2026  Nr: 10",
-      "codiceOP": " [2/2]",
-      "rigaOP": "-2",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-05",
-      "qtaRichiesta": 231,
-      "qtaProdotta": 0,
-      "date": "2026-06-10",
-      "macId": "EXT1",
-      "larghezza": 40,
-      "spessore": 80,
-      "pesoSpecifico": 0.92,
-      "forma": "foglia",
-      "piste": 1,
-      "kg": 231,
-      "scarto": 0,
-      "calc": {
-        "ore": 5.021739130434782,
-        "kgh": 46,
-        "fonte": "esterno",
-        "tubolare": 40,
-        "qtyLabel": "231 kg",
-        "detail": "Tubolare 40 cm · 80 µ · 46 kg/h"
-      },
-      "classe": "none",
-      "chiuso": false,
-      "seq": 4,
-      "oreManual": 7,
-      "kghManual": 33,
-      "_open": true,
-      "oraInizio": null,
-      "oraFine": null
     },
     {
       "id": "ou5buhsw",
@@ -9186,6 +9145,10 @@
     {
       "id": "oe7r0mcv",
       "ts": 1781096725520
+    },
+    {
+      "id": "ovbrhla9",
+      "ts": 1781096767809
     }
   ],
   "turni": {
