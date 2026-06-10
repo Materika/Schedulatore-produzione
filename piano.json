@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:17:05.800Z",
+  "_salvato": "2026-06-10T13:17:10.173Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -34,8 +34,8 @@
         "detail": "Tubolare 80 cm · 40 µ · 66 kg/h"
       },
       "seq": 6.502,
-      "oreManual": 9.09,
-      "kghManual": null,
+      "oreManual": null,
+      "kghManual": 65,
       "_open": true,
       "oraInizio": null,
       "oraFine": null
