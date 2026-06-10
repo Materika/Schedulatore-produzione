@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:28:27.532Z",
+  "_salvato": "2026-06-10T13:28:31.009Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -1057,8 +1057,8 @@
       "dataConsegna": "2026-06-26",
       "qtaRichiesta": 1460,
       "qtaProdotta": 0,
-      "date": null,
-      "macId": null,
+      "date": "2026-06-10",
+      "macId": "RIBO1",
       "larghezza": 70,
       "spessore": 50,
       "pesoSpecifico": 0.92,
@@ -1075,7 +1075,7 @@
       },
       "classe": "none",
       "chiuso": false,
-      "seq": 1781098105249.5168,
+      "seq": 1,
       "oreManual": null,
       "kghManual": null,
       "_open": true,
