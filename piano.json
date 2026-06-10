@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-10T13:34:35.333Z",
+  "_salvato": "2026-06-10T13:34:44.351Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -6396,7 +6396,7 @@
       "qtaRichiesta": 0,
       "macId": "RIBO1",
       "date": "2026-06-10",
-      "oreManual": 0.5,
+      "oreManual": 8,
       "_open": true,
       "seq": 0,
       "calc": {
