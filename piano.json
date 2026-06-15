@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T09:04:28.554Z",
+  "_salvato": "2026-06-15T09:04:46.282Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -17,24 +17,24 @@
       "date": "2026-06-10",
       "chiuso": false,
       "_tipoManuale": true,
-      "qtaRichiesta": 825,
+      "qtaRichiesta": 500,
       "larghezza": 80,
       "spessore": 40,
       "forma": "tubolare",
       "piste": 1,
       "pesoSpecifico": 0.92,
-      "kg": 825,
+      "kg": 500,
       "scarto": 0,
       "calc": {
-        "ore": 12.5,
+        "ore": 7.575757575757576,
         "kgh": 66,
         "fonte": "interno",
         "tubolare": 80,
-        "qtyLabel": "825 kg",
+        "qtyLabel": "500 kg",
         "detail": "Tubolare 80 cm · 40 µ · 66 kg/h"
       },
       "seq": 4.627,
-      "oreManual": null,
+      "oreManual": 12.69,
       "kghManual": 65,
       "_open": true,
       "oraInizio": null,
