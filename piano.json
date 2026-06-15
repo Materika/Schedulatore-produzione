@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T06:50:15.217Z",
+  "_salvato": "2026-06-15T06:50:23.747Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -878,46 +878,6 @@
       "kghManual": 54,
       "_open": true,
       "dataChiusura": null
-    },
-    {
-      "id": "o7i95cjg",
-      "tipo": "bobine",
-      "cliente": "DIELLE SRL",
-      "articolo": "TUBOLARE PE-LD cm. 65 / NO MARCHIETTI/ BOBINA DA LAVORARE",
-      "commessa": "OC26.0906-10",
-      "commessaDesc": "DIELLE SRL  Rich: 26/06/2026  Cr: 03/06/2026  Nr: 10",
-      "codiceOP": " [1/2] [1/2]",
-      "rigaOP": "[1/2][1/2]",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-26",
-      "qtaRichiesta": 534,
-      "qtaProdotta": 240,
-      "date": "2026-06-10",
-      "macId": "EXT1",
-      "larghezza": 65,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 534,
-      "scarto": 0,
-      "calc": {
-        "ore": 8.476190476190476,
-        "kgh": 63,
-        "fonte": "interno",
-        "tubolare": 65,
-        "qtyLabel": "534 kg",
-        "detail": "Tubolare 65 cm · 50 µ · 63 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 3.25025,
-      "oreManual": null,
-      "kghManual": 54,
-      "_open": true,
-      "dataChiusura": "2026-06-15"
     },
     {
       "id": "olds2sq0",
@@ -2157,46 +2117,6 @@
       "oreManual": null,
       "kghManual": null,
       "_open": true
-    },
-    {
-      "id": "ocyviyir",
-      "tipo": "bobine",
-      "cliente": "FOLLADOR S",
-      "articolo": "MONOPIEGA PE-LD st.\"PE-REC+RACC. PL.\" cm. 80 sp.50 my / 1 PISTA",
-      "commessa": "OC26.0841-10",
-      "commessaDesc": "FOLLADOR S  Rich: 20/05/2026  Cr: 20/05/2026  Nr: 10",
-      "codiceOP": "",
-      "rigaOP": "",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-12",
-      "qtaRichiesta": 500,
-      "qtaProdotta": 0,
-      "date": "2026-06-10",
-      "macId": "EXT1",
-      "larghezza": 80,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "monopiega",
-      "piste": 1,
-      "kg": 500,
-      "scarto": 0,
-      "calc": {
-        "ore": 7.042253521126761,
-        "kgh": 71,
-        "fonte": "interno",
-        "tubolare": 80,
-        "qtyLabel": "500 kg",
-        "detail": "Tubolare 80 cm · 50 µ · 71 kg/h"
-      },
-      "classe": "none",
-      "chiuso": true,
-      "seq": 3.5004999999999997,
-      "oreManual": null,
-      "kghManual": 65,
-      "_open": true,
-      "dataChiusura": "2026-06-15"
     },
     {
       "id": "o47tynjs",
@@ -9814,6 +9734,14 @@
     {
       "id": "oxp0rjhv",
       "ts": 1781179054203
+    },
+    {
+      "id": "o7i95cjg",
+      "ts": 1781506219297
+    },
+    {
+      "id": "ocyviyir",
+      "ts": 1781506221600
     }
   ],
   "turni": {
