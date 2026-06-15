@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T09:09:37.805Z",
+  "_salvato": "2026-06-15T09:10:38.491Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -33,7 +33,7 @@
         "qtyLabel": "500 kg",
         "detail": "Tubolare 80 cm · 40 µ · 66 kg/h"
       },
-      "seq": 4.627,
+      "seq": 4.61494921875,
       "oreManual": null,
       "kghManual": 64,
       "_open": true,
@@ -3023,7 +3023,7 @@
       "seq": 4.60771875,
       "oreManual": null,
       "kghManual": 31,
-      "_open": false,
+      "_open": true,
       "oraInizio": null,
       "oraFine": null
     },
@@ -3064,7 +3064,7 @@
       "seq": 4.622179687499999,
       "oreManual": null,
       "kghManual": 31,
-      "_open": false,
+      "_open": true,
       "oraInizio": null,
       "oraFine": null
     },
@@ -6515,7 +6515,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 1.5,
-      "_open": true,
+      "_open": false,
       "seq": 1.5019999999999998,
       "calc": {
         "ore": 0,
@@ -6553,7 +6553,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.5,
-      "_open": true,
+      "_open": false,
       "seq": 3.1897499999999996,
       "calc": {
         "ore": 0,
@@ -6588,7 +6588,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.2,
-      "_open": true,
+      "_open": false,
       "seq": 3.2528749999999995,
       "calc": {
         "ore": 0,
@@ -6626,7 +6626,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.3,
-      "_open": true,
+      "_open": false,
       "seq": 2.752,
       "calc": {
         "ore": 0,
@@ -6664,7 +6664,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.2,
-      "_open": true,
+      "_open": false,
       "seq": 3.0645,
       "calc": {
         "ore": 0,
@@ -6702,7 +6702,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.5,
-      "_open": true,
+      "_open": false,
       "seq": 3.9011875,
       "calc": {
         "ore": 0,
@@ -6737,7 +6737,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.2,
-      "_open": true,
+      "_open": false,
       "seq": 4.549625,
       "calc": {
         "ore": 0,
@@ -6775,7 +6775,7 @@
       "macId": "EXT1",
       "date": "2026-06-15",
       "oreManual": 0.5,
-      "_open": true,
+      "_open": false,
       "seq": 4.56915625,
       "calc": {
         "ore": 0,
