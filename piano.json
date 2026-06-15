@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T09:08:55.699Z",
+  "_salvato": "2026-06-15T09:09:15.473Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -6587,7 +6587,7 @@
       "qtaRichiesta": 0,
       "macId": "EXT1",
       "date": "2026-06-15",
-      "oreManual": 0.5,
+      "oreManual": 0.2,
       "_open": true,
       "seq": 3.2528749999999995,
       "calc": {
@@ -6598,7 +6598,10 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "kghManual": null
+      "kghManual": null,
+      "oraInizio": null,
+      "oraFine": null,
+      "dataConsegna": null
     },
     {
       "id": "ob3htep3",
