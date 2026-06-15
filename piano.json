@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T09:05:13.189Z",
+  "_salvato": "2026-06-15T09:05:21.210Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -6531,7 +6531,7 @@
       "dataConsegna": null
     },
     {
-      "id": "okkjhuzs",
+      "id": "oee101tw",
       "tipo": "bobine",
       "cliente": "⏱ SLOT",
       "articolo": "Segnaposto / fermo",
@@ -6551,10 +6551,10 @@
       "scarto": 0,
       "qtaRichiesta": 0,
       "macId": "EXT1",
-      "date": "2026-06-16",
+      "date": "2026-06-15",
       "oreManual": 0.5,
       "_open": true,
-      "seq": 0,
+      "seq": 0.5019999999999998,
       "calc": {
         "ore": 0,
         "kgh": 38,
@@ -9602,6 +9602,10 @@
     {
       "id": "om6hse2o",
       "ts": 1781514266058
+    },
+    {
+      "id": "okkjhuzs",
+      "ts": 1781514318912
     }
   ],
   "turni": {
