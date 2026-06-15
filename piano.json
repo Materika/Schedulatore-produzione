@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T08:11:37.505Z",
+  "_salvato": "2026-06-15T08:11:43.914Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -916,7 +916,7 @@
       "seq": 16.503,
       "oreManual": null,
       "kghManual": 54,
-      "_open": false,
+      "_open": true,
       "dataChiusura": null,
       "oraInizio": null,
       "oraFine": null
@@ -6183,45 +6183,6 @@
       "oraFine": null
     },
     {
-      "id": "ojmsl0dr",
-      "tipo": "bobine",
-      "cliente": "DIELLE SRL",
-      "articolo": "TUBOLARE PE-LD cm. 65 / NO MARCHIETTI/ BOBINA 25KG",
-      "commessa": "OC26.0906-10",
-      "commessaDesc": "DIELLE SRL  Rich: 26/06/2026  Cr: 03/06/2026  Nr: 10",
-      "codiceOP": " [1/2] [2/2]",
-      "rigaOP": "[1/2][2/2]",
-      "nrCli": "",
-      "stato": "",
-      "dataOrdine": null,
-      "dataConsegna": "2026-06-26",
-      "qtaRichiesta": 162,
-      "qtaProdotta": 0,
-      "date": "2026-06-10",
-      "macId": "EXT1",
-      "larghezza": 65,
-      "spessore": 50,
-      "pesoSpecifico": 0.92,
-      "forma": "tubolare",
-      "piste": 1,
-      "kg": 162,
-      "scarto": 0,
-      "calc": {
-        "ore": 2.5714285714285716,
-        "kgh": 63,
-        "fonte": "interno",
-        "tubolare": 65,
-        "qtyLabel": "162 kg",
-        "detail": "Tubolare 65 cm · 50 µ · 63 kg/h"
-      },
-      "classe": "none",
-      "chiuso": false,
-      "seq": 15.502999999999998,
-      "oreManual": null,
-      "kghManual": 54,
-      "_open": false
-    },
-    {
       "id": "otc9zc2k",
       "tipo": "ribobina",
       "cliente": "DIELLE SRL",
@@ -9677,6 +9638,10 @@
     {
       "id": "ov1vbng0",
       "ts": 1781511095231
+    },
+    {
+      "id": "ojmsl0dr",
+      "ts": 1781511101631
     }
   ],
   "turni": {
