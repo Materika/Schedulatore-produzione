@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-15T12:28:52.984Z",
+  "_salvato": "2026-06-15T17:55:30.974Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -2225,11 +2225,12 @@
         "detail": "Tubolare 68 cm · 25 µ · 54 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 2.502,
       "oreManual": null,
       "kghManual": 58,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-15"
     },
     {
       "id": "ozxmcgof",
@@ -2583,11 +2584,12 @@
         "detail": "Tubolare 80 cm · 55 µ · 72 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 3.002,
       "oreManual": null,
       "kghManual": 75,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-15"
     },
     {
       "id": "o3lecg5g",
@@ -6544,7 +6546,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "larghezza": 0,
@@ -6571,7 +6573,8 @@
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null,
-      "dataConsegna": null
+      "dataConsegna": null,
+      "dataChiusura": "2026-06-15"
     },
     {
       "id": "oee101tw",
@@ -6655,7 +6658,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "larghezza": 0,
@@ -6682,7 +6685,8 @@
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null,
-      "dataConsegna": null
+      "dataConsegna": null,
+      "dataChiusura": "2026-06-15"
     },
     {
       "id": "o0hruba6",
@@ -6693,7 +6697,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "larghezza": 0,
@@ -6720,7 +6724,8 @@
       "kghManual": null,
       "oraInizio": null,
       "oraFine": null,
-      "dataConsegna": null
+      "dataConsegna": null,
+      "dataChiusura": "2026-06-15"
     },
     {
       "id": "o5fe5itc",
