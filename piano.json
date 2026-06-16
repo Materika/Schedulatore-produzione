@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-16T15:04:54.436Z",
+  "_salvato": "2026-06-16T15:04:58.962Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -10136,6 +10136,10 @@
     {
       "id": "ofg0tm03",
       "ts": 1781622292082
+    },
+    {
+      "id": "ooey8wn6",
+      "ts": 1781622298912
     }
   ],
   "turni": {
