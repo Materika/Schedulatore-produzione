@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-16T06:44:28.090Z",
+  "_salvato": "2026-06-16T06:44:53.851Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -2230,7 +2230,7 @@
       "oreManual": null,
       "kghManual": 58,
       "_open": true,
-      "dataChiusura": "2026-06-15"
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "ozxmcgof",
@@ -2589,7 +2589,7 @@
       "oreManual": null,
       "kghManual": 75,
       "_open": true,
-      "dataChiusura": "2026-06-15"
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "o3lecg5g",
@@ -6296,13 +6296,14 @@
         "detail": "Tubolare 62 cm · 50 µ · 60 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 3.127,
       "oreManual": null,
       "kghManual": 51,
       "_open": true,
       "oraInizio": null,
-      "oraFine": null
+      "oraFine": null,
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "oerw3qoz",
@@ -6574,7 +6575,7 @@
       "oraInizio": null,
       "oraFine": null,
       "dataConsegna": null,
-      "dataChiusura": "2026-06-15"
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "oee101tw",
@@ -6585,7 +6586,7 @@
       "rigaOP": "",
       "stato": "",
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "_tipoManuale": true,
       "_segnaposto": true,
       "larghezza": 0,
@@ -6609,7 +6610,8 @@
         "qtyLabel": "0 kg",
         "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
-      "kghManual": null
+      "kghManual": null,
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "ozrjui2q",
@@ -6686,7 +6688,7 @@
       "oraInizio": null,
       "oraFine": null,
       "dataConsegna": null,
-      "dataChiusura": "2026-06-15"
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "o0hruba6",
@@ -6725,7 +6727,7 @@
       "oraInizio": null,
       "oraFine": null,
       "dataConsegna": null,
-      "dataChiusura": "2026-06-15"
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "o5fe5itc",
