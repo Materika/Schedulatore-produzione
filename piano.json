@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-16T14:24:37.188Z",
+  "_salvato": "2026-06-16T15:04:51.985Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -7076,6 +7076,41 @@
         "fonte": "interno",
         "qtyLabel": "0 kg",
         "detail": "Ribobinatura · 70 kg/h"
+      },
+      "kghManual": null
+    },
+    {
+      "id": "ofg0tm03",
+      "tipo": "bobine",
+      "cliente": "⏱ SLOT",
+      "articolo": "Segnaposto / fermo",
+      "codiceOP": "",
+      "rigaOP": "",
+      "stato": "",
+      "classe": "none",
+      "chiuso": false,
+      "_tipoManuale": true,
+      "_segnaposto": true,
+      "larghezza": 0,
+      "spessore": 0,
+      "forma": "tubolare",
+      "piste": 1,
+      "pesoSpecifico": 0.92,
+      "kg": 0,
+      "scarto": 0,
+      "qtaRichiesta": 0,
+      "macId": "EXT1",
+      "date": "2026-06-16",
+      "oreManual": 0.5,
+      "_open": true,
+      "seq": 0,
+      "calc": {
+        "ore": 0,
+        "kgh": 38,
+        "fonte": "esterno",
+        "tubolare": 0,
+        "qtyLabel": "0 kg",
+        "detail": "Tubolare 0 cm · 0 µ · 38 kg/h"
       },
       "kghManual": null
     }
