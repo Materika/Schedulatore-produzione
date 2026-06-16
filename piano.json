@@ -1,7 +1,7 @@
 {
   "_formato": "schedulatore-materika",
   "_versione": 2,
-  "_salvato": "2026-06-16T14:22:24.847Z",
+  "_salvato": "2026-06-16T14:24:37.188Z",
   "ordini": [
     {
       "id": "oq77unu8",
@@ -2067,11 +2067,12 @@
         "detail": "Tubolare 45 cm · 50 µ · 42 kg/h"
       },
       "classe": "none",
-      "chiuso": false,
+      "chiuso": true,
       "seq": 3.2524999999999995,
       "oreManual": null,
       "kghManual": 40,
-      "_open": true
+      "_open": true,
+      "dataChiusura": "2026-06-16"
     },
     {
       "id": "odi2hc50",
